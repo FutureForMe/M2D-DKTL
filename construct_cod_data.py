@@ -40,9 +40,9 @@ if __name__ == "__main__":
     debate_result_path = ""
     parser = argparse.ArgumentParser(description="Construct Chain-of-Debate dataset")
     parser.add_argument("--debate_result_path", type=str,
-                        default="./results/distillation/mmmu/distill_case.json")
+                        default="./results/mmmu/mmmu_debate_result.json")
     parser.add_argument("--cod_data_path", type=str,
-                        default="./results/distillation/mmmu/distill_case_result.json")
+                        default="./results/mmmu/mmmu_cod_data.json")
 
     parser.add_argument("--gpt4v_deployment", type=str, default="GPT-4-Turbo-Vision")
     parser.add_argument("--gpt4v_resource_name", type=str, default="YOUR_RESOURCE_NAME")

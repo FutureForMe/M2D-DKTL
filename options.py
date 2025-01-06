@@ -9,11 +9,11 @@ import argparse
 def get_args():
     parser = argparse.ArgumentParser(description="Multi-modal Multi-agent Debate")
     parser.add_argument("--dataset_name", type=str, default="math_vista", choices=["mm_vet", "mmmu", "math_vista"])
-    parser.add_argument("--text_data_path", type=str, default="./data/processed/MathVista/math_vista_testmini_500_v1.json")
+    parser.add_argument("--text_data_path", type=str, default="./data/processed/MathVista/math_vista_testmini_500.json")
     parser.add_argument("--image_data_path", type=str,
-                        default="/home/nvidia/wht/MathVista_images/images/")
+                        default="/home/nvidia/wht/MathVista_images/")
     parser.add_argument("--test_output_path", type=str,
-                        default="./results/predictions/mmmu/testmini_500_gpt4v_a2r3_easy_error_result_prompt_v2.1.json")
+                        default="./results/predictions/mmmu/testmini_500_gpt4v_a2r3.json")
 
     parser.add_argument("--data_begin", type=int, default=0)
     parser.add_argument("--data_end", type=int, default=3000)

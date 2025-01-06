@@ -11,7 +11,7 @@ def get_args():
     parser.add_argument("--dataset_name", type=str, default="math_vista", choices=["mm_vet", "mmmu", "math_vista"])
     parser.add_argument("--text_data_path", type=str, default="./data/processed/MathVista/math_vista_testmini_500.json")
     parser.add_argument("--image_data_path", type=str,
-                        default="/home/nvidia/wht/MathVista_images/")
+                        default="./data/images/MathVista_images/")
     parser.add_argument("--test_output_path", type=str,
                         default="./results/predictions/mmmu/testmini_500_gpt4v_a2r3.json")
 

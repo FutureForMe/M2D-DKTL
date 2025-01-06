@@ -66,7 +66,7 @@ def evaluate_dataset(predict_path, eval_agent, eval_prompt, eval_result_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate MMMAD Result")
     parser.add_argument("--predict_result_path", type=str,
-                        default="results/predictions/mmmu/testmini_500_gpt4v_a2r3_easy_error_result_prompt_v2.1.jsonl")
+                        default="results/predictions/math_vista/testmini_500_gpt4v_a2r3_easy_error_result_prompt_v2.1.jsonl")
     parser.add_argument("--eval_result_path", type=str,
                         default="results/evaluations/math_vista/testmini_500_gpt4v_a2r3_easy_error_result_prompt_v2.1_eval.jsonl")
 

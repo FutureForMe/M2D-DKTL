@@ -40,9 +40,9 @@ if __name__ == "__main__":
     debate_result_path = ""
     parser = argparse.ArgumentParser(description="Construct Chain-of-Debate dataset")
     parser.add_argument("--debate_result_path", type=str,
-                        default="./results/distillation/mmmu_v2/distill_case.json")
+                        default="./results/distillation/mmmu/distill_case.json")
     parser.add_argument("--cod_data_path", type=str,
-                        default="./results/distillation/mmmu_v2/distill_case_result.json")
+                        default="./results/distillation/mmmu/distill_case_result.json")
 
     parser.add_argument("--gpt4v_deployment", type=str, default="GPT-4-Turbo-Vision")
     parser.add_argument("--gpt4v_resource_name", type=str, default="YOUR_RESOURCE_NAME")
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     cod_data = []
     for result in tqdm(debate_results, total=len(debate_results)):
         question = result["question"]
-        
+
         debate_process = ""
         for i in range(result["stop_round"] + 1):
             round_num = "Round_{}".format(str(i))

@@ -1,0 +1,6628 @@
+[
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12087_001.png"
+        ],
+        "question_id": 12087,
+        "question_type": "multi_choice",
+        "question": "演奏时不要把大拇指放在键盘外<img=\"q_12087_001.png\">，弹奏时为了好看可以将手指翘起来（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05957_001.jpg"
+        ],
+        "question_id": 5957,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_05957_001.jpg\">，唐代最有代表性的表现多个妇女劳动场面的工笔画是张萱的___。",
+        "choices": [
+            "仕女图",
+            "春猎图",
+            "清明上河图",
+            "捣炼图"
+        ],
+        "answer": "捣炼图"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_06352_001.jpg"
+        ],
+        "question_id": 6352,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06352_001.jpg\">毕加索是（）绘画艺术大师。",
+        "choices": [
+            "中国",
+            "法国",
+            "意大利",
+            "西班牙"
+        ],
+        "answer": "西班牙"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02765_001.png"
+        ],
+        "question_id": 2765,
+        "question_type": "multi_choice",
+        "question": "关于下图<img=\"q_02765_001.png\">赵明诚所著《金石录》,属于《四库全书》中的 史 部目录类。()",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "a_03835_001.jpg",
+            "a_03835_002.jpg",
+            "a_03835_003.jpg",
+            "a_03835_004.jpg"
+        ],
+        "question_id": 3835,
+        "question_type": "multi_choice",
+        "question": "请问被唐玄宗誉为“八音之领袖”的乐器是以上图片中的哪一件?()",
+        "choices": [
+            "<img=\"a_03835_001.jpg\">",
+            "<img=\"a_03835_002.jpg\">",
+            "<img=\"a_03835_003.jpg\">",
+            "<img=\"a_03835_004.jpg\">"
+        ],
+        "answer": "<img=\"a_03835_002.jpg\">"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02519_001.jpg"
+        ],
+        "question_id": 2519,
+        "question_type": "multi_choice",
+        "question": "《点石斋画报》创刊于公元________。<img=\"q_02519_001.jpg\">--",
+        "choices": [
+            "1883",
+            "1884",
+            "1885",
+            "1886"
+        ],
+        "answer": "1884"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02526_001.jpg"
+        ],
+        "question_id": 2526,
+        "question_type": "multi_choice",
+        "question": "歌剧《唐璜》的曲作者是________。<img=\"q_02526_001.jpg\">--",
+        "choices": [
+            "莫奈",
+            "伦勃朗",
+            "莫扎特",
+            "罗丹"
+        ],
+        "answer": "莫扎特"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01889_001.jpg"
+        ],
+        "question_id": 1889,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01889_001.jpg\">所示的段落文本一侧沿斜线排列，要编排出这种版式正确的操作步骤是（ )。",
+        "choices": [
+            "输入文字，然后将文本框旋转一定的角度",
+            "先用 【钢笔工具】绘制出闭合四边形路径，然后将鼠标放置在路径内任意位置单击，然后在路径内输入文字即可",
+            "先用 【钢笔工具】绘制出闭合四边形路径,然后将鼠标放置在路径上任意位置单击,然后在路径内输入文字即可",
+            "输入文字，然后对文本框执行菜单中的【编辑】/【变换】/【变形】命令"
+        ],
+        "answer": "先用 【钢笔工具】绘制出闭合四边形路径，然后将鼠标放置在路径内任意位置单击，然后在路径内输入文字即可"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03389_001.png"
+        ],
+        "question_id": 3389,
+        "question_type": "multi_choice",
+        "question": "关于下图<img=\"q_03389_001.png\">这段主题旋律出自于那部歌曲（）",
+        "choices": [
+            "《天鹅湖》 ",
+            "《沃尔塔瓦河》",
+            "《雷鸣电闪波尔卡》",
+            "《在中亚细亚草原上》"
+        ],
+        "answer": "《天鹅湖》 "
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01783_001.png"
+        ],
+        "question_id": 1783,
+        "question_type": "multi_choice",
+        "question": "吴道子独创的宗教图像样式，被称为“____”?<img=\"q_01783_001.png\">",
+        "choices": [
+            "林良",
+            "崔子忠",
+            "吴家详",
+            "林风眠"
+        ],
+        "answer": "吴家详"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01437_001.jpg"
+        ],
+        "question_id": 1437,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01437_001.jpg\">是民族管弦乐队的位置图，①所在的区域通常是哪种乐器？（）",
+        "choices": [
+            "拉弦乐器",
+            "打击乐器",
+            "弹拨乐器",
+            "吹管乐器"
+        ],
+        "answer": "拉弦乐器"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12676_001.png"
+        ],
+        "question_id": 12676,
+        "question_type": "multi_choice",
+        "question": "明代“吴门四家”<img=\"q_12676_001.png\">是指文徽明、唐寅沈周和谁?-",
+        "choices": [
+            "徐扬",
+            "褚遂良",
+            "李映庚",
+            "仇英"
+        ],
+        "answer": "仇英"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05519_001.jpg"
+        ],
+        "question_id": 5519,
+        "question_type": "multi_choice",
+        "question": "写出下图<img=\"q_05519_001.jpg\">所示对象的名称、朝代、地点_",
+        "choices": [
+            "临潼姜寨原始社会氏族村落遗址平面",
+            "陕西长安县客省庄原始社会半地穴住宅遗址平面",
+            "偃师二里头商代宫殿遗址平面",
+            "隋唐洛阳总平面"
+        ],
+        "answer": "隋唐洛阳总平面"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05520_001.jpg"
+        ],
+        "question_id": 5520,
+        "question_type": "multi_choice",
+        "question": "写出下图<img=\"q_05520_001.jpg\">所示对象的名称、朝代、地点_",
+        "choices": [
+            "唐长安总平面",
+            "陕西西安慈恩寺大雁塔,唐",
+            "北京妙应寺白塔,元",
+            "明清北京故宫太和殿平面"
+        ],
+        "answer": "唐长安总平面"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_06359_001.jpg"
+        ],
+        "question_id": 6359,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06359_001.jpg\">反应了_地方的服饰特色",
+        "choices": [
+            "古埃及",
+            "巴比伦",
+            "古罗马",
+            "哥特式"
+        ],
+        "answer": "古埃及"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12598_001.png"
+        ],
+        "question_id": 12598,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12598_001.png\">是希腊化时期的作品《萨摩色雷斯的胜利女神》，希腊艺术与罗马艺术有一定的区别，与罗马艺术相比较希腊艺术是：——。",
+        "choices": [
+            "唯物主义的，奢华的、强调个性的，粗犷豪放的",
+            "理想主义的，简朴的、强调共性的，典雅精致的",
+            "悲观主义的，古老的、强调独创性的，随性随意的",
+            "现实主义的，华丽的、强调传统性的，狂放不羁的"
+        ],
+        "answer": "理想主义的，简朴的、强调共性的，典雅精致的"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03997_001.jpg"
+        ],
+        "question_id": 3997,
+        "question_type": "multi_choice",
+        "question": " 如<img=\"q_03997_001.jpg\">所示，下列关于该动画的描述，正确的是：（）",
+        "choices": [
+            "进行放大缩小的图像必须是一个影片剪辑",
+            "将图像转换成影片剪辑后，无须为影片剪辑添加实例名称",
+            "两个“放大镜”按钮可共用一个实例名，便于在编写代码时使用",
+            "可以通过“行为”直接为按钮添加缩放代码"
+        ],
+        "answer": "进行放大缩小的图像必须是一个影片剪辑"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12687_001.png"
+        ],
+        "question_id": 12687,
+        "question_type": "multi_choice",
+        "question": "宋杂剧<img=\"q_12687_001.png\">的表演结构包括艳段、正杂剧、______。",
+        "choices": [
+            "散段",
+            "歌舞",
+            "尾段",
+            "选段"
+        ],
+        "answer": "散段"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_10616_001.jpg"
+        ],
+        "question_id": 10616,
+        "question_type": "multi_choice",
+        "question": "天坛祈年殿的屋顶最初拥有三种颜色.请问不包含以下哪种颜色？<img=\"q_10616_001.jpg\">（）",
+        "choices": [
+            "蓝色",
+            "绿色",
+            "黄色",
+            "红色"
+        ],
+        "answer": "红色"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02771_001.png"
+        ],
+        "question_id": 2771,
+        "question_type": "multi_choice",
+        "question": "关于下图<img=\"q_02771_001.png\">《隋书·经籍志》把集部分为楚辞、别集、总集三类。()",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05625_001.png"
+        ],
+        "question_id": 5625,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_05625_001.png\">1750年，_______建立了作为一门独立学科的“美学”。",
+        "choices": [
+            "丹托",
+            "荣格",
+            "科林伍德",
+            "鲍姆嘉通"
+        ],
+        "answer": "鲍姆嘉通"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12653_001.png"
+        ],
+        "question_id": 12653,
+        "question_type": "multi_choice",
+        "question": "山西著名的唐代黄河大铁牛<img=\"q_12653_001.png\">曾矗立于哪个渡口?-",
+        "choices": [
+            "风陵渡",
+            "河姆渡",
+            "李思渡",
+            "蒲津渡"
+        ],
+        "answer": "蒲津渡"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12584_001.png"
+        ],
+        "question_id": 12584,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12584_001.png\">是岭南画派代表作《红棉翠鸟》，岭南画派的创始者是：——。",
+        "choices": [
+            "“二居”居巢、居廉",
+            "“二任”任熊、任颐",
+            "“二高”高剑父、高奇峰",
+            "“二梁”梁启超、梁思成）"
+        ],
+        "answer": "“二居”居巢、居廉"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12689_001.png"
+        ],
+        "question_id": 12689,
+        "question_type": "multi_choice",
+        "question": "下面<img=\"q_12689_001.png\">谱例中的主题单独呈示，之后另一个声部在属调上模仿该主题。具有这种特点的作品体裁是（     ）。( )",
+        "choices": [
+            "奏鸣曲",
+            "经文歌",
+            "赋格",
+            "奥尔加农"
+        ],
+        "answer": "赋格"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05289_001.png"
+        ],
+        "question_id": 5289,
+        "question_type": "multi_choice",
+        "question": "《剪彩波尔卡》1896年由图<img=\"q_05289_001.png\">中奥地利作曲家爱德华.施特劳斯为纪念某铁路通车创作的具有描绘色彩的管弦乐曲。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05575_001.png"
+        ],
+        "question_id": 5575,
+        "question_type": "multi_choice",
+        "question": "在中国绘画理论中，提出“蒙养生活”的作者<img=\"q_05575_001.png\">是__",
+        "choices": [
+            "宗炳",
+            "姚最",
+            "林泉高致",
+            "石涛"
+        ],
+        "answer": "石涛"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01733_001.png"
+        ],
+        "question_id": 1733,
+        "question_type": "multi_choice",
+        "question": "关于岩画的相关描述正确的是？<img=\"q_01733_001.png\">",
+        "choices": [
+            "埃及是最早发现记录岩画的国家",
+            "岩画指的是刻画在岩石内部的画",
+            "中国岩画题材丰富多彩， 有人物、植物、日月星辰、房屋、武器、千面、车辆、帐篷等形象",
+            "中国岩画主要分布在新疆昆明"
+        ],
+        "answer": "中国岩画题材丰富多彩， 有人物、植物、日月星辰、房屋、武器、千面、车辆、帐篷等形象"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03951_001.jpg"
+        ],
+        "question_id": 3951,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_03951_001.jpg\">所示，上图到下图的转变是图像使用裁切工具过程的演示，请问，在使用裁切工具的过程中,要让图像产生透视效果，下列说法不正确的是（）",
+        "choices": [
+            "使用裁切工具的透视选项",
+            "使用快捷键Ctrl（Windows操作系统）/Command（Mac OS X操作系统)",
+            "使用快捷键Alt",
+            "使用快捷键Ctrl(Windows操作系统）/Command(Mac OS X操作系统）+Alt+Shift"
+        ],
+        "answer": "使用快捷键Ctrl(Windows操作系统）/Command(Mac OS X操作系统）+Alt+Shift"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02778_001.png"
+        ],
+        "question_id": 2778,
+        "question_type": "multi_choice",
+        "question": "关于下图<img=\"q_02778_001.png\">清代那位作家的\n《文史通义》是唐代刘知幾之后又一部史学理论名著（）",
+        "choices": [
+            "章学诚",
+            "杜甫",
+            "杜佑",
+            "祁理孙"
+        ],
+        "answer": "章学诚"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05288_001.png"
+        ],
+        "question_id": 5288,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_05288_001.png\">管弦乐曲《火车》旋律欢快而富有强烈的时代气息，乐曲的两个主题选自罗大佑的歌曲《火车》,寓意改革开放后祖国如飞驰的火车，高速发展，发生了翻天覆地的变化，以及人们的喜悦之情。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03850_001.jpg"
+        ],
+        "question_id": 3850,
+        "question_type": "multi_choice",
+        "question": "请问沈周创作这幅画的初衷是以下哪一项?<img=\"q_03850_001.jpg\">()",
+        "choices": [
+            "祝寿作为贺礼",
+            "赠友传递情谊",
+            "献礼送给显贵",
+            "出游作画留念"
+        ],
+        "answer": "祝寿作为贺礼"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01462_001.jpg"
+        ],
+        "question_id": 1462,
+        "question_type": "multi_choice",
+        "question": "右图是唐代绘画名作（）<img=\"q_01462_001.jpg\">",
+        "choices": [
+            "《清明上河图》",
+            "《洛神赋图》",
+            "《女史箴图》",
+            "《步辇图》"
+        ],
+        "answer": "《步辇图》"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03629_001.jpg"
+        ],
+        "question_id": 3629,
+        "question_type": "multi_choice",
+        "question": "北京天坛的整体平面是正方形，中央的圜丘是三层圆台，这种造型的象征意义是<img=\"q_03629_001.jpg\">--",
+        "choices": [
+            "天方地方",
+            "天圆地方",
+            "天圆地圆",
+            "天方地圆"
+        ],
+        "answer": "天圆地方"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03602_001.jpg"
+        ],
+        "question_id": 3602,
+        "question_type": "multi_choice",
+        "question": "其舟底还毫芒细刻了一篇文人名作，请问这篇文人名作是以下哪一项?<img=\"q_03602_001.jpg\">()",
+        "choices": [
+            "曹植《洛神赋》",
+            "陶渊明《桃花源记 》",
+            "魏学洢《核舟记》",
+            "苏轼《后赤壁赋》"
+        ],
+        "answer": "苏轼《后赤壁赋》"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_12590_001.png"
+        ],
+        "question_id": 12590,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12590_001.png\">是魏晋南北朝时期，王微所作的《叙画》，其同一时期的著名山水画有：——。",
+        "choices": [
+            "吴道子《山水游仙图》，张择端《游春图》。",
+            "顾恺之《画云台山记》，宗炳《画山水序》。",
+            "赵孟頫《水仙图轴》，文征明《泮池赋图》。",
+            "王羲之《兰亭序》，米芾《山村女》。"
+        ],
+        "answer": "顾恺之《画云台山记》，宗炳《画山水序》。"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03650_001.jpg"
+        ],
+        "question_id": 3650,
+        "question_type": "multi_choice",
+        "question": "德国戏剧家布莱希特倡导一种间离效果的演剧方法，主张演员要设身处地体验角色的生活、情感和思想，并体现于表演之中。<img=\"q_03650_001.jpg\">",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01713_001.png"
+        ],
+        "question_id": 1713,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_01713_001.png\">下列有关新石器时代的基本概念，正确的是（）",
+        "choices": [
+            "使用比较粗糙的打制石器的阶段叫做新石器时代，包括了原始群时期和氏族公社的初期",
+            "使用磨制石器的阶段叫做新石器时代，，包括了原始群时期和氏族公社的初期",
+            "新石器时代晚期陶器处于发明阶段，制作原始，工艺低",
+            "新石器晚期是向青铜时代的过渡时期，最具有代表性的是龙山文化"
+        ],
+        "answer": "新石器晚期是向青铜时代的过渡时期，最具有代表性的是龙山文化"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_06347_001.jpg"
+        ],
+        "question_id": 6347,
+        "question_type": "multi_choice",
+        "question": "草间弥生的\n《南瓜》\n(<img=\"q_06347_001.jpg\">所示)是以()为主体",
+        "choices": [
+            "花纹",
+            "线条",
+            "点",
+            "光影"
+        ],
+        "answer": "点"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "a_01486_001.jpg",
+            "a_01486_002.jpg",
+            "a_01486_003.jpg",
+            "a_01486_004.jpg",
+            "q_01486_001.jpg"
+        ],
+        "question_id": 1486,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_01486_001.jpg\">所示，原稿执行菜单中的【滤镜】/【像素化】/【晶格化】命令后可以得到( ）所示的效果。",
+        "choices": [
+            "<img=\"a_01486_001.jpg\">",
+            "<img=\"a_01486_002.jpg\">",
+            "<img=\"a_01486_003.jpg\">",
+            "<img=\"a_01486_004.jpg\">"
+        ],
+        "answer": "<img=\"a_01486_002.jpg\">"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_01900_001.jpg"
+        ],
+        "question_id": 1900,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01900_001.jpg\">为一幅灰度图，要为它局部添加颜色以得到右图所示的效果，正确的操作步骤是（ ）。",
+        "choices": [
+            "先将色彩模式转为RGB，然后用工具箱中的 【画笔工具】上色",
+            "先将色彩模式转为RGB，制作局部选区，然后打开【色相/饱和度】对话框，在其中点中【着色】项,调节色彩属性参数",
+            "先将色彩模式转为RGB，制作局部选区，然后打开【可选颜色】对话框,调节参数",
+            "打开【色相/饱和度】对话框，直接调节色彩属性参数"
+        ],
+        "answer": "先将色彩模式转为RGB，制作局部选区，然后打开【色相/饱和度】对话框，在其中点中【着色】项,调节色彩属性参数"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_05254_001.png"
+        ],
+        "question_id": 5254,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_05254_001.png\">管弦乐曲《彼得与狼》里每个“角色”都不是由乐队的固定乐器来表现的。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03731_001.png"
+        ],
+        "question_id": 3731,
+        "question_type": "multi_choice",
+        "question": "下图<img=\"q_03731_001.png\">1983-1986年间,文渊阁《四库全书》全部公布于世。影印送部大型丛书的单位是（）",
+        "choices": [
+            "北京中华书局",
+            "台湾商务印书馆",
+            "上海古籍出版社",
+            "济南齐鲁书社"
+        ],
+        "answer": "上海古籍出版社"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_03586_001.jpg"
+        ],
+        "question_id": 3586,
+        "question_type": "multi_choice",
+        "question": "请问关于七层彩绘连阁陶仓楼，以下说法错误的是哪一项?<img=\"q_03586_001.jpg\">（）",
+        "choices": [
+            "这件陶楼顶部的条纹展示着汉代建筑板瓦与筒瓦铺设的效果",
+            "这件陶楼的配楼描绘的是火灾的逃生通道。",
+            "这件陶楼中的望楼是汉代庄园建筑的常见结构，具有防御功能",
+            "陶楼随葬与汉代人“仙人好楼居”的观念有关"
+        ],
+        "answer": "这件陶楼的配楼描绘的是火灾的逃生通道。"
+    },
+    {
+        "data_domain": "art_and_design",
+        "image_name": [
+            "q_02494_001.jpg"
+        ],
+        "question_id": 2494,
+        "question_type": "multi_choice",
+        "question": "《阿细跳月》是我国______族的民间舞蹈。<img=\"q_02494_001.jpg\">--",
+        "choices": [
+            "苗族",
+            "壮族",
+            "傣族",
+            "彝族"
+        ],
+        "answer": "彝族"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_09467_001.png"
+        ],
+        "question_id": 9467,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_09467_001.png\">为三相对称电路,已知电流$I_{A} =2\\angle -60^{0} $A,电压$U_{AB} =220\\sqrt{3} \\angle 0^{0} $VAN间的相电压为_",
+        "choices": [
+            "$220\\angle -60^{0} $",
+            "$220\\angle 30^{0} $",
+            "$220\\angle -30^{0} $",
+            "$220\\angle 60^{0} $"
+        ],
+        "answer": "$220\\angle -30^{0} $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06536_001.jpg"
+        ],
+        "question_id": 6536,
+        "question_type": "multi_choice",
+        "question": "求图<img=\"q_06536_001.jpg\">所示系统的固有频率。图中磙子半径为R,质量为M,作纯滚动。弹簧刚度\n为K_",
+        "choices": [
+            "$\\omega = \\sqrt{\\frac{k}{3m}} $",
+            "$\\omega = \\sqrt{\\frac{2k}{3m}} $",
+            "$\\omega = \\sqrt{\\frac{3k}{2m}} $",
+            "$\\omega = \\sqrt{\\frac{k}{m}} $"
+        ],
+        "answer": "$\\omega = \\sqrt{\\frac{2k}{3m}} $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05834_001.png"
+        ],
+        "question_id": 5834,
+        "question_type": "open",
+        "question": "如<img=\"q_05834_001.png\">所示为某零件与机架通过螺栓联接的示意图。该联接在载荷F作用下可能发生的失效形式有_____端受力最大的螺栓被拉断。",
+        "choices": [],
+        "answer": "左"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12622_001.jpg"
+        ],
+        "question_id": 12622,
+        "question_type": "multi_choice",
+        "question": "某系统采用基于优先权的非抢占式进程调度策略，完成一次进程调度和进程切换的系统时间开销为1”S。在 7时刻就绪队列中有3 个进程 PH P2和 P3,其在就绪队列中的等待时间、需要的CPU时间和优先权如下表<img=\"q_12622_001.jpg\">所示。若优先权值大的进程先获得CPU，从T时刻起系统开始进程调度，则系统的平均周转时间为（）",
+        "choices": [
+            "54$\\mu$s",
+            "73$\\mu$s",
+            "74$\\mu$s",
+            "75$\\mu$s"
+        ],
+        "answer": "75$\\mu$s"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_11656_001.png"
+        ],
+        "question_id": 11656,
+        "question_type": "multi_choice",
+        "question": "已知某生物的a, b, c三个基因位于同一条染色体上,用两纯合亲本杂交得到的F〔+++/abc〕与三隐性纯合个体测交,得到如图<img=\"q_11656_001.png\">，则两个纯合体亲本的基因型是ab+/ab+和++c/++c。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06958_001.png"
+        ],
+        "question_id": 6958,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_06958_001.png\">，则图的割点集是___。",
+        "choices": [
+            "{a,c}",
+            "{b,e}",
+            "{b,c}",
+            "{f,c}"
+        ],
+        "answer": "{f,c}"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00893_001.png"
+        ],
+        "question_id": 893,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00893_001.png\">所示是高岭石的结构示意图，分析结构中的作用力___。",
+        "choices": [
+            "层内是氢键，层间是共价键",
+            "层内是共价键，层间是氢键",
+            "层内与层间都是氢键",
+            "层内与层间都是共价键"
+        ],
+        "answer": "层内是共价键，层间是氢键"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07205_001.jpg"
+        ],
+        "question_id": 7205,
+        "question_type": "multi_choice",
+        "question": "图中的结构<img=\"q_07205_001.jpg\">为_",
+        "choices": [
+            "(3S)-1,2,3-三甲基环己烯",
+            "(3S)-1,2,3-三乙基环己烯",
+            "(3S)-1,2,3-三甲基环己烷",
+            "(3R)-1,2,3-三甲基环己烯"
+        ],
+        "answer": "(3S)-1,2,3-三甲基环己烯"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10136_001.png"
+        ],
+        "question_id": 10136,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_10136_001.png\">示体系是几何（）的体系。",
+        "choices": [
+            "不变",
+            "不变且无多余约束",
+            "瞬变",
+            "不变，有一个多余约束"
+        ],
+        "answer": "不变且无多余约束"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12105_001.png"
+        ],
+        "question_id": 12105,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12105_001.png\">所示的是__农业",
+        "choices": [
+            "原始",
+            "传统",
+            "现代",
+            "观光"
+        ],
+        "answer": "传统"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_03124_001.png"
+        ],
+        "question_id": 3124,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_03124_001.png\">为史塔基蝴蝶兰，主要原产于南菲律宾的民答那峨岛。叶片浓绿带有银白色斑点，长度可达35 cm。花序___，长约60 cm，常有分枝，着生花数多可达30~50朵。",
+        "choices": [
+            "螺旋状",
+            "弯曲状",
+            "箭弓状",
+            "轴弓状"
+        ],
+        "answer": "轴弓状"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07842_001.png"
+        ],
+        "question_id": 7842,
+        "question_type": "open",
+        "question": "读图<img=\"q_07842_001.png\">，图示机构的低副数为_______",
+        "choices": [],
+        "answer": "5"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08088_001.jpg"
+        ],
+        "question_id": 8088,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_08088_001.jpg\">所示的逻辑符号是_门电路。",
+        "choices": [
+            "与",
+            "或",
+            "与非",
+            "或非"
+        ],
+        "answer": "或"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12637_001.png"
+        ],
+        "question_id": 12637,
+        "question_type": "multi_choice",
+        "question": "将下图所示<img=\"q_12637_001.png\">的二叉树按中序线索化，结点c的左指针与结点h的右指针分别指向（）",
+        "choices": [
+            "a，g",
+            "a，c",
+            "h，g",
+            "g，c"
+        ],
+        "answer": "a，g"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06822_001.png"
+        ],
+        "question_id": 6822,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06822_001.png\">所示结构的横梁AB可视为刚体，杆1、2和3的横截面面积均为A，各杆的材料相同，许用应力为σ。那么AD为（）F。",
+        "choices": [
+            "$\\frac{1}{5} $",
+            "$\\frac{2}{5} $",
+            "$\\frac{3}{5} $",
+            "$\\frac{1}{6} $"
+        ],
+        "answer": "$\\frac{2}{5} $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04582_001.png"
+        ],
+        "question_id": 4582,
+        "question_type": "open",
+        "question": "如图<img=\"q_04582_001.png\">所示电路中,已知Z=(30+j30)Ω,$jX_{L} $=j10Ω,又知$U_{Z} $=85V,求路端电压有效值U=_V",
+        "choices": [],
+        "answer": "100"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02719_001.png"
+        ],
+        "question_id": 2719,
+        "question_type": "open",
+        "question": "此结构<img=\"q_02719_001.png\">的超静定次数n=__。",
+        "choices": [],
+        "answer": "7"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07488_001.jpg"
+        ],
+        "question_id": 7488,
+        "question_type": "multi_choice",
+        "question": "在<img=\"q_07488_001.jpg\">下列链队列Q中,元素a出队的操作序列为()",
+        "choices": [
+            "p=Q.front->next; p->next= Q.front->next;\n",
+            "p=Q.front->next; Q.front->next=p->next;",
+            "p=Q.rear->next; p->next= Q.rear->next;",
+            "p=Q->next; Q->next=p->next;"
+        ],
+        "answer": "p=Q.front->next; Q.front->next=p->next;"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12339_001.png"
+        ],
+        "question_id": 12339,
+        "question_type": "multi_choice",
+        "question": "已知一棵二叉树的树形如<img=\"q_12339_001.png\">所示，其后序序列为e,a,c,b,d,g,f，树中与结点a同层的结点是（）",
+        "choices": [
+            "c",
+            "d",
+            "f",
+            "g"
+        ],
+        "answer": "d"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "a_07490_001.png",
+            "a_07490_002.png",
+            "a_07490_003.png",
+            "a_07490_004.png"
+        ],
+        "question_id": 7490,
+        "question_type": "multi_choice",
+        "question": "下列图是欧拉图的是（）",
+        "choices": [
+            "<img=\"a_07490_001.png\">",
+            "<img=\"a_07490_002.png\">",
+            "<img=\"a_07490_003.png\">",
+            "<img=\"a_07490_004.png\">"
+        ],
+        "answer": "<img=\"a_07490_004.png\">"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10891_001.png"
+        ],
+        "question_id": 10891,
+        "question_type": "multi_choice",
+        "question": "某系统采用基于优先权的非抢占式进程调度策略，完成一次进程调度和进程切换的系统时间开销为 1$\\mu s$。在T时刻就绪队列中有 3 个进程 P1,P2和 P3，其在就绪队列中的等待时间、需要的CPU时间和优先权如图所示<img=\"q_10891_001.png\">,若优先权值大的进程优先获得 CPU，从T时刻起系统开始进程调度，则系统的平均周转时间为()",
+        "choices": [
+            "54$\\mu s$",
+            "73$\\mu s$",
+            "74$\\mu s$",
+            "75$\\mu s$"
+        ],
+        "answer": "75$\\mu s$"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_03134_001.png"
+        ],
+        "question_id": 3134,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_03134_001.png\">为蜀葵，它的莳养要诀是： 播种繁殖，多于春季进行。喜___的气候，不耐热、不耐寒。对土壤要求不严，以肥沃、排水良好的土壤为佳。定植后宜保持土壤稍湿润，不宜过干。开花前半个月施1次复合肥，花芽分化时追施1～2次磷钾肥，以促使花大色艳。花后剪除残枝，可促植株萌发新芽。",
+        "choices": [
+            "温暖及阳光充足",
+            "凉爽及阳光充足",
+            "凉爽及避光",
+            "温暖及避光"
+        ],
+        "answer": "凉爽及阳光充足"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00998_001.png"
+        ],
+        "question_id": 998,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_00998_001.png\">中是__销",
+        "choices": [
+            "开尾圆锥",
+            "槽",
+            "开口",
+            "以上都不是"
+        ],
+        "answer": "槽"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08690_001.png"
+        ],
+        "question_id": 8690,
+        "question_type": "multi_choice",
+        "question": "为研究干旱胁迫对气孔运动的影响,某同学选取正常生长的植物进行实验,处理和结果如<img=\"q_08690_001.png\">所示。该同学推测第 2 组气孔开度变化的原因是根系感受干旱后向叶片传递了引起气孔开度增加的信号。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06678_001.png"
+        ],
+        "question_id": 6678,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06678_001.png\">所示的设备的作用是汇集、分配和传送电能的中间线路，作为线路多段汇集，再__输出的中间通道。 ",
+        "choices": [
+            "部分",
+            "整段",
+            "单段",
+            "多段"
+        ],
+        "answer": "多段"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12767_001.png"
+        ],
+        "question_id": 12767,
+        "question_type": "multi_choice",
+        "question": "位错是一类极为重要的晶体缺陷,它对材料的塑性变形、强度、断裂等起着决定性的作用对扩散、相变等过程也有较大影响。本节主要介绍位错的原子组态、几何特征和各种属性、位错的运动、增殖和交割等。<img=\"q_12767_001.png\">所示的是位错的基本类型中的__",
+        "choices": [
+            "刃型位错",
+            "螺型位错",
+            "混合型位错",
+            "平型位错"
+        ],
+        "answer": "刃型位错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04050_001.jpg"
+        ],
+        "question_id": 4050,
+        "question_type": "multi_choice",
+        "question": "\n观察<img=\"q_04050_001.jpg\">可知，该工程是（  ）结构类型。",
+        "choices": [
+            "钢筋混凝土结构",
+            "砖混结构",
+            "钢结构",
+            "框架结构"
+        ],
+        "answer": "砖混结构"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06642_001.png"
+        ],
+        "question_id": 6642,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06642_001.png\">所示的设备是__",
+        "choices": [
+            "变压器",
+            "断路器",
+            "隔离开关",
+            "接触器"
+        ],
+        "answer": "变压器"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04549_001.png"
+        ],
+        "question_id": 4549,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_04549_001.png\">所示，塔式太阳能发电系统主要由跟踪太阳的定日镜场构成，将太阳辐射直接反射到位于高塔顶部的接收器上。接收器中的熔盐被加热后作为传热流体用于产生蒸汽，推动汽轮发电机进行发电。抛物型槽式和塔式太阳能发电系统均具有一定的经济规模，与其结合的发电机最小经济容量通常在__MW以上。",
+        "choices": [
+            "50",
+            "100",
+            "150",
+            "200"
+        ],
+        "answer": "50"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10099_001.png"
+        ],
+        "question_id": 10099,
+        "question_type": "open",
+        "question": "如图<img=\"q_10099_001.png\">示结构，$M_{CB}$=___kN·m。",
+        "choices": [],
+        "answer": "0"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06849_001.png"
+        ],
+        "question_id": 6849,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06849_001.png\">所示，铁道路标圆信号板，装在外径D=60mm的空心圆柱上，信号板所受的最大风载p=$2kN/m^{2} $，[$\\sigma$]=60MPa。则选择的空心圆柱厚度应该大于或等于（）。",
+        "choices": [
+            "2.62mm",
+            "2.63mm",
+            "2.64mm",
+            "2.65mm"
+        ],
+        "answer": "2.65mm"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04829_001.png"
+        ],
+        "question_id": 4829,
+        "question_type": "multi_choice",
+        "question": "在下图<img=\"q_04829_001.png\">中的1面是()",
+        "choices": [
+            "圆柱面",
+            "滚花部分",
+            "简化画法",
+            "平面"
+        ],
+        "answer": "平面"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08096_001.jpg"
+        ],
+        "question_id": 8096,
+        "question_type": "open",
+        "question": "电路如<img=\"q_08096_001.jpg\">所示,电源电动势E=_V",
+        "choices": [],
+        "answer": "5"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01212_001.png"
+        ],
+        "question_id": 1212,
+        "question_type": "open",
+        "question": "如图<img=\"q_01212_001.png\">，为___式杂质缺陷。（填入“取代式”或者“间隙式”）",
+        "choices": [],
+        "answer": "间隙式"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12825_001.png"
+        ],
+        "question_id": 12825,
+        "question_type": "open",
+        "question": "<img=\"q_12825_001.png\">所示的是__、安全机制和安全应用域之间的关系 ",
+        "choices": [],
+        "answer": "安全服务"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "a_01149_001.png",
+            "a_01149_002.png",
+            "a_01149_003.png",
+            "a_01149_004.png"
+        ],
+        "question_id": 1149,
+        "question_type": "multi_choice",
+        "question": "下列四组视图中，主视图均为全剖视图，其中（）的主视图有缺露线。",
+        "choices": [
+            "<img=\"a_01149_001.png\">",
+            "<img=\"a_01149_002.png\">",
+            "<img=\"a_01149_003.png\">",
+            "<img=\"a_01149_004.png\">"
+        ],
+        "answer": "<img=\"a_01149_001.png\">"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08588_001.jpg"
+        ],
+        "question_id": 8588,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_08588_001.jpg\">所示梁在外力P作用下,最大弯矩($M_{max} $)为下列何值?()(梁自重不计)",
+        "choices": [
+            "$M_{max} $=4kN·m",
+            "$M_{max} $=6kN·m",
+            "$M_{max} $=8kN·m",
+            "$M_{max} $=12kN·m"
+        ],
+        "answer": "$M_{max} $=6kN·m"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07176_001.jpg"
+        ],
+        "question_id": 7176,
+        "question_type": "open",
+        "question": "在果蝇中A、B、C分别是a、b、c的显性基因。一只三基因杂合体的雌蝇与野生型雄蝇杂交,结果如下:<img=\"q_07176_001.jpg\">这些基因位于果蝇的_染色体上?(填写'X'或'Y')",
+        "choices": [],
+        "answer": "X"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02606_001.png"
+        ],
+        "question_id": 2606,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02606_001.png\">中展示的是显卡的处理器GPU，GPU比CPU拥有更多的___，比CPU的计算能力更强。",
+        "choices": [
+            "计算速度",
+            "计算单元",
+            "计算复杂度",
+            "存储能力"
+        ],
+        "answer": "计算单元"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_03082_001.png"
+        ],
+        "question_id": 3082,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_03082_001.png\">中是蝴蝶兰，它同其他植物一样，由___组成。",
+        "choices": [
+            "细胞壁、茎、芽、花、果实和种子",
+            "根、茎、芽、花、果实和种子",
+            "细胞壁、根、叶、花、果实和种子",
+            "根、茎、叶、花、果实和种子"
+        ],
+        "answer": "根、茎、叶、花、果实和种子"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06853_001.png"
+        ],
+        "question_id": 6853,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06853_001.png\">所示压杆的材料为A3钢，l的柔度为100，E=210GPa,在主视图a所在平面内，两端为铰支座，在俯视图b的平面内，两端为固定。在主视图所在平面内，压杆的柔度为（）。",
+        "choices": [
+            "138.6",
+            "138.7",
+            "138.8",
+            "138.9"
+        ],
+        "answer": "138.6"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "a_00869_001.jpg",
+            "a_00869_002.jpg",
+            "a_00869_003.jpg",
+            "a_00869_004.jpg"
+        ],
+        "question_id": 869,
+        "question_type": "multi_choice",
+        "question": "轴线垂直相交的两圆柱体，相贯线画法中正确的是（）",
+        "choices": [
+            "<img=\"a_00869_001.jpg\">",
+            "<img=\"a_00869_002.jpg\">",
+            "<img=\"a_00869_003.jpg\">",
+            "<img=\"a_00869_004.jpg\">"
+        ],
+        "answer": "<img=\"a_00869_002.jpg\">"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10133_001.png"
+        ],
+        "question_id": 10133,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_10133_001.png\">桁架有（）根零杆。",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02272_001.png"
+        ],
+        "question_id": 2272,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02272_001.png\">示杆的抗拉（压）刚度为EA，杆长为2l，则杆总伸长量为（     ).",
+        "choices": [
+            "$\\frac{Pl}{EA}$",
+            "$-\\frac{Pl}{EA}$",
+            "0",
+            "$\\frac{3Pl}{EA}$"
+        ],
+        "answer": "0"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_03138_001.png"
+        ],
+        "question_id": 3138,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_03138_001.png\">为雏菊，播种繁殖，____进行，种子较__，可混入细沙撒播。喜温暖及光照充足的气候条件，生长适温为18～25℃。喜疏松、肥沃及排水良好的土壤。",
+        "choices": [
+            "春季或秋季，大",
+            "夏季或冬季，大",
+            "春季或秋季，小",
+            "夏季或冬季，小"
+        ],
+        "answer": "春季或秋季，小"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_09991_001.png"
+        ],
+        "question_id": 9991,
+        "question_type": "multi_choice",
+        "question": "图示<img=\"q_09991_001.png\">电路中,A、B端电压U()",
+        "choices": [
+            "-2V",
+            "-1V",
+            "2V",
+            "3V"
+        ],
+        "answer": "-2V"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01126_001.png"
+        ],
+        "question_id": 1126,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_01126_001.png\">示结构，据平衡条件求出B点约束力，进而得图示弯矩图，即最后弯矩图。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12420_001.jpg"
+        ],
+        "question_id": 12420,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12420_001.jpg\">根据图示判断这是哪一种中草药?_",
+        "choices": [
+            "枸杞",
+            "灵芝",
+            "树皮",
+            "人参"
+        ],
+        "answer": "灵芝"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08552_001.jpg"
+        ],
+        "question_id": 8552,
+        "question_type": "multi_choice",
+        "question": "二极管应用电路如图<img=\"q_08552_001.jpg\">所示,设二极管为理想器件,输出正半轴时对应导通的二极管为()",
+        "choices": [
+            "$D_{1} $和$D_{3} $",
+            "$D_{2} $和$D_{4} $",
+            "$D_{1} $和$D_{4} $",
+            "$D_{2} $和$D_{3} $"
+        ],
+        "answer": "$D_{1} $和$D_{4} $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00896_001.png"
+        ],
+        "question_id": 896,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_00896_001.png\">两块平板玻璃构成的空气劈尖，左边为棱边，用单色平行光垂直入射。若上面的平板玻璃慢慢地向上平移，则干涉条纹（）",
+        "choices": [
+            "向棱边方向平移，条纹间隔变小",
+            "向棱边方向平移，条纹间隔变大",
+            "向棱边方向平移，条纹间隔不变",
+            "向远离棱边的方向平移，条纹间隔不变"
+        ],
+        "answer": "向棱边方向平移，条纹间隔不变"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12638_001.png"
+        ],
+        "question_id": 12638,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12638_001.png\">算法的时间复杂度是（）",
+        "choices": [
+            "O（n）",
+            "O（$n^{2} $）",
+            "O（$\\sqrt{n} $）",
+            "O（nlog（n））"
+        ],
+        "answer": "O（$\\sqrt{n} $）"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06440_001.png"
+        ],
+        "question_id": 6440,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06440_001.png\">所示图表示（）。",
+        "choices": [
+            "简支梁",
+            "外伸梁",
+            "悬臂梁",
+            "两端固定梁"
+        ],
+        "answer": "简支梁"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07827_001.png"
+        ],
+        "question_id": 7827,
+        "question_type": "open",
+        "question": "读图<img=\"q_07827_001.png\">，在铣床上加工如图所示套筒零件的表面B，以C面定位，表面D、E均已加工完毕，要求保证尺寸0~0.2mm，试求工序尺寸A的极限偏差$ES_{A}$为____mm",
+        "choices": [],
+        "answer": "0.08"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07627_001.png"
+        ],
+        "question_id": 7627,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07627_001.png\">所示的设备起到阻止高频电流向变电站或支线泄漏、减小高频能量__的作用。",
+        "choices": [
+            "损害",
+            "成本",
+            "效益",
+            "损耗"
+        ],
+        "answer": "损耗"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02255_001.jpg"
+        ],
+        "question_id": 2255,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02255_001.jpg\">\n中两直线的相对几何关系是： (   )",
+        "choices": [
+            "相交",
+            "交错",
+            "平行",
+            "无法判断"
+        ],
+        "answer": "交错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_12326_001.png"
+        ],
+        "question_id": 12326,
+        "question_type": "multi_choice",
+        "question": "运算放大器电路如图<img=\"q_12326_001.png\">所示，$R_{F1}$和$R_{F2}$均为反馈电阻，其反馈极性为 (    ) 。",
+        "choices": [
+            "$R_{F1}$引入的为正反馈，$R_{F2}$引入的为负反馈",
+            "$R_{F1}$和$R_{F2}$引入的均为负反馈",
+            "$R_{F1}$和$R_{F2}$引入的均为正反馈",
+            "$R_{F1}$引入的为负反馈，$R_{F2}$引入的为正反馈"
+        ],
+        "answer": "$R_{F1}$引入的为负反馈，$R_{F2}$引入的为正反馈"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06892_001.png"
+        ],
+        "question_id": 6892,
+        "question_type": "multi_choice",
+        "question": "某计算机按字节编址，其动态分区内存管理采用最佳适应算法，每次分配和回收内存后都对空闲分区链重新排序。当前空闲分区信息如图<img=\"q_06892_001.png\">，回收起始地址为60K、大小为140KB的分区后，系统中空闲分区的数量、空闲分区链第一个分区的起始地址和大小分别是（）",
+        "choices": [
+            "3、20K、380KB",
+            "3、500K、80KB",
+            "4、20K、180KB",
+            "4、500K、80KB"
+        ],
+        "answer": "3、500K、80KB"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01291_001.png"
+        ],
+        "question_id": 1291,
+        "question_type": "open",
+        "question": "此结构<img=\"q_01291_001.png\">的超静定次数__。",
+        "choices": [],
+        "answer": "3"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_11647_001.png"
+        ],
+        "question_id": 11647,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_11647_001.png\">，判断ab和cd两直线的相对位置是交叉。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "a_06070_001.png",
+            "a_06070_002.png",
+            "a_06070_003.png",
+            "a_06070_004.png"
+        ],
+        "question_id": 6070,
+        "question_type": "multi_choice",
+        "question": "螺纹标注正确的是（       ）。",
+        "choices": [
+            "<img=\"a_06070_001.png\">",
+            "<img=\"a_06070_002.png\">",
+            "<img=\"a_06070_003.png\">",
+            "<img=\"a_06070_004.png\">"
+        ],
+        "answer": "<img=\"a_06070_003.png\">"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07509_001.jpg"
+        ],
+        "question_id": 7509,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_07509_001.jpg\">所示电路在开关S断开之前电路已达稳\n在t=0时将开关S断开,则电路中L上通过的电流i,(0+)为",
+        "choices": [
+            "2A",
+            "0A",
+            "-2A",
+            "1A"
+        ],
+        "answer": "2A"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_13059_001.png"
+        ],
+        "question_id": 13059,
+        "question_type": "multi_choice",
+        "question": " <img=\"q_13059_001.png\">\n示排架在反对称荷载作用下，杆AB的轴力为（  ）",
+        "choices": [
+            "-2P",
+            "1",
+            "0",
+            "P"
+        ],
+        "answer": "0"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01178_001.png"
+        ],
+        "question_id": 1178,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_01178_001.png\">，\n体心单斜点阵是一个新的点阵。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_09491_001.png"
+        ],
+        "question_id": 9491,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_09491_001.png\">是有10个活动的AOE网,时间余量最大的活动是()",
+        "choices": [
+            "c",
+            "g",
+            "h",
+            "j"
+        ],
+        "answer": "g"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04414_001.png"
+        ],
+        "question_id": 4414,
+        "question_type": "multi_choice",
+        "question": "已知图<img=\"q_04414_001.png\">示二梁的抗弯截面刚度EI相同,若二者自由端的挠度相等,则P1/P2=()",
+        "choices": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "8"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04566_001.png"
+        ],
+        "question_id": 4566,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_04566_001.png\">所示，太阳能热水器集热器的工作原理是太阳能热水器集热器的工作原理是，太阳光照射在真空管或真空板上，光线带着太阳的能量透过高硼硅玻璃、真空层，投射在涂有选择性吸收材料的内玻璃管上，玻璃管发热，能量被管内的水吸收，水温升高，从而将太阳能转化为___",
+        "choices": [
+            "电能",
+            "化学能",
+            "风能",
+            "热能"
+        ],
+        "answer": "热能"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00989_001.png"
+        ],
+        "question_id": 989,
+        "question_type": "multi_choice",
+        "question": "像图<img=\"q_00989_001.png\">中的多层高层住宅太阳能的辅助热源一般采用__",
+        "choices": [
+            "燃气热水器",
+            "电热水器",
+            "太阳能热水器",
+            "热泵热水器"
+        ],
+        "answer": "燃气热水器"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05765_001.png"
+        ],
+        "question_id": 5765,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_05765_001.png\">所示的凸轮为偏心圆盘。圆心为O，半径R为30mm，偏心距等于10mm，偏距等于10mm，那么推杆的行程h为（）。",
+        "choices": [
+            "20.3mm",
+            "20.4mm",
+            "20.5mm",
+            "20.6mm"
+        ],
+        "answer": "20.5mm"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10160_001.png"
+        ],
+        "question_id": 10160,
+        "question_type": "open",
+        "question": "电路如图<img=\"q_10160_001.png\">所示。开关S在t=0时闭合。则$i_{L}\\left ( 0+ \\right )  $为__A",
+        "choices": [],
+        "answer": "0"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_09462_001.png"
+        ],
+        "question_id": 9462,
+        "question_type": "multi_choice",
+        "question": "下图示<img=\"q_09462_001.png\">电路中电压U等于()",
+        "choices": [
+            "0V",
+            "8V",
+            "-8V",
+            "16V"
+        ],
+        "answer": "-8V"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04570_001.png"
+        ],
+        "question_id": 4570,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_04570_001.png\">中示出了核电厂由核能转变为电能过程的工作原理，__是反应堆",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01026_001.png"
+        ],
+        "question_id": 1026,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_01026_001.png\">K形口通常在哪种焊接时用到？__",
+        "choices": [
+            "单面焊",
+            "双面焊",
+            "对接焊",
+            "角焊"
+        ],
+        "answer": "双面焊"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06942_001.png"
+        ],
+        "question_id": 6942,
+        "question_type": "open",
+        "question": "如图<img=\"q_06942_001.png\">所示为集电极开路门74LS03 驱动5 个CMOS 逻辑门，已知OC 门输\n出管截止时的漏电流，$I_{OZ}$＝0.2 mA；负载门的参数为：$V_{IH(min)}$＝4 V，$V_{IL(max)}$＝1 V，\n$I_{IL}$＝$I_{IH}$＝$1\\mu A$。试计算上拉电阻的范围为___~4.9$K\\Omega$。",
+        "choices": [],
+        "answer": "0.56"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "a_12363_001.png",
+            "a_12363_002.png",
+            "a_12363_003.png",
+            "a_12363_004.png"
+        ],
+        "question_id": 12363,
+        "question_type": "multi_choice",
+        "question": "如图所示下图所示门电路的逻辑式为（ ）",
+        "choices": [
+            "<img=\"a_12363_001.png\">",
+            "<img=\"a_12363_002.png\">",
+            "<img=\"a_12363_003.png\">",
+            "<img=\"a_12363_004.png\">"
+        ],
+        "answer": "<img=\"a_12363_003.png\">"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06448_001.png"
+        ],
+        "question_id": 6448,
+        "question_type": "open",
+        "question": "如<img=\"q_06448_001.png\">所示曲线为_____曲线。（填入“Hermite”或“Bezier”）",
+        "choices": [],
+        "answer": "Hermite"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00867_001.png"
+        ],
+        "question_id": 867,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00867_001.png\">中Ａ和Ｂ截面梁的材料相同，Ｂ梁为叠合梁，层面无摩擦，从强度考虑，Ａ梁\n所能承受的最大载荷与Ｂ所能承受的最大载荷之比为（）。",
+        "choices": [
+            "2:1",
+            "1:1",
+            "1:2",
+            "1:3"
+        ],
+        "answer": "2:1"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05756_001.png"
+        ],
+        "question_id": 5756,
+        "question_type": "open",
+        "question": "在如<img=\"q_05756_001.png\">所示传动系统中，件\n1和2均为斜齿圆柱齿轮，件3为蜗杆，件4为蜗轮。已知齿轮1轮齿螺旋线方向为左旋，其转向如如<img=\"q_05756_001.png\">所示。则齿轮2的轮齿螺旋线方向是_____。（填入“左旋”或“右旋”）",
+        "choices": [],
+        "answer": "右旋"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07619_001.png"
+        ],
+        "question_id": 7619,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07619_001.png\">所示的设备把电枢线圈中感应产生的交变电动势，靠换向器配合电刷的换向作用，使之从电刷端引出时变为__因为电刷 A 通过换向片所引出的电动势始终是切割N 极磁力线的线圈边中的电动势。所以电刷 A 始终有正极性，同样道理，电刷 B 始终有负极性。所以电刷端能引出方向不变但大小变化的脉动电动势。",
+        "choices": [
+            "交流电流",
+            "直流电流",
+            "交流电动势",
+            "直流电动势"
+        ],
+        "answer": "直流电动势"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06441_001.png"
+        ],
+        "question_id": 6441,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06441_001.png\">所示图表示（）。",
+        "choices": [
+            "简支梁",
+            "外伸梁",
+            "悬臂梁",
+            "两端固定梁"
+        ],
+        "answer": "外伸梁"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_13078_001.png"
+        ],
+        "question_id": 13078,
+        "question_type": "multi_choice",
+        "question": "用位移法求解<img=\"q_13078_001.png\">示结构时，独立点的结点角位移和线位移未知数数目分别为（  ）",
+        "choices": [
+            "3,3",
+            "4,3",
+            "4,2",
+            "3,2"
+        ],
+        "answer": "4,2"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06962_001.png"
+        ],
+        "question_id": 6962,
+        "question_type": "open",
+        "question": "如图<img=\"q_06962_001.png\">是一组权为2,3,5,7，17，31的最优二叉树，计算该最优二叉树的权为___。",
+        "choices": [],
+        "answer": "131"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02695_001.png"
+        ],
+        "question_id": 2695,
+        "question_type": "multi_choice",
+        "question": "此化合物<img=\"q_02695_001.png\">在常温平衡状态下，不可能有芳香性特征。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06426_001.png"
+        ],
+        "question_id": 6426,
+        "question_type": "multi_choice",
+        "question": "在土建详图中，如<img=\"q_06426_001.png\">所示图例表示( )材料。",
+        "choices": [
+            "饰面砖",
+            "胶合板",
+            "夯实土壤",
+            "石膏板"
+        ],
+        "answer": "夯实土壤"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10104_001.png"
+        ],
+        "question_id": 10104,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_10104_001.png\">示结构$M_{AC}$为___，___边受拉。",
+        "choices": [
+            "1Pa；下",
+            "2Pa；下",
+            "1Pa；上",
+            "2Pa；上"
+        ],
+        "answer": "2Pa；下"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01936_001.png"
+        ],
+        "question_id": 1936,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_01936_001.png\">，假设计算机系统采用CSCAN(循环扫描)磁盘调度策略,使用2KB的内存空间记录16384个磁盘块的空闲状态。上述条件下需要_KB可以进行磁盘块空闲状态的管理。",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01078_001.png"
+        ],
+        "question_id": 1078,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01078_001.png\">体系是有_个多余联系的几何不变体系。",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": "0"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02609_001.png"
+        ],
+        "question_id": 2609,
+        "question_type": "multi_choice",
+        "question": "推荐系统可以通过多种算法实现，如基于内容的推荐、协同过滤、关联规则等。<img=\"q_02609_001.png\">就是一个___算法的实例。",
+        "choices": [
+            "KNN算法",
+            "回归分析算法",
+            "分类算法",
+            "协同过滤推荐"
+        ],
+        "answer": "协同过滤推荐"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06489_001.png"
+        ],
+        "question_id": 6489,
+        "question_type": "multi_choice",
+        "question": "常见的建筑材料图例如<img=\"q_06489_001.png\">所示的材料是（）。",
+        "choices": [
+            "岩石",
+            "自然土壤",
+            "沙土或粘土",
+            "人工土壤"
+        ],
+        "answer": "自然土壤"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06123_001.png"
+        ],
+        "question_id": 6123,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06123_001.png\">所示，力F作用在边长为a的正方形侧表面CDEG的对角线EC上，该力在x轴上的投影X及对x轴之矩$m_{x}(F)$应等于（   ）。",
+        "choices": [
+            "X=0,$m_{x}(F)$=0",
+            "X=$\\frac{\\sqrt{2} }{2} $F,$m_{x}(F)$=0",
+            "X=0,$m_{x}(F)$=$\\frac{\\sqrt{2} }{2} $Fa",
+            "X=$\\frac{\\sqrt{2} }{2} $F,$m_{x}(F)$=$\\frac{\\sqrt{2} }{2} $Fa"
+        ],
+        "answer": "X=$\\frac{\\sqrt{2} }{2} $F,$m_{x}(F)$=$\\frac{\\sqrt{2} }{2} $Fa"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06955_001.png"
+        ],
+        "question_id": 6955,
+        "question_type": "open",
+        "question": "如图<img=\"q_06955_001.png\">是___（多重图/简单图）。",
+        "choices": [],
+        "answer": "简单图"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06788_001.png"
+        ],
+        "question_id": 6788,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06788_001.png\">所示为某个材料的拉伸曲线，其中弹性变形阶段是（）。",
+        "choices": [
+            "bc",
+            "cd",
+            "ab",
+            "oa"
+        ],
+        "answer": "oa"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01294_001.png"
+        ],
+        "question_id": 1294,
+        "question_type": "open",
+        "question": "试确定用位移法计算如图所示<img=\"q_01294_001.png\">结构的基本未知量数目n=___。",
+        "choices": [],
+        "answer": "4"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06548_001.jpg"
+        ],
+        "question_id": 6548,
+        "question_type": "multi_choice",
+        "question": "求图示<img=\"q_06548_001.jpg\">体系的自振频率与周期为（）",
+        "choices": [
+            "$\\omega =2.828\\sqrt{\\frac{EI}{ml^{3} } } $;$T=2.22\\sqrt{\\frac{ml^{3}}{EI} } $",
+            "$\\omega =3.828\\sqrt{\\frac{EI}{ml^{3} } } $;$T=2.12\\sqrt{\\frac{ml^{3}}{EI} } $",
+            "$\\omega =2.828\\sqrt{\\frac{EI}{ml^{3} } } $;$T=2.12\\sqrt{\\frac{ml^{3}}{EI} } $",
+            "$\\omega =3.828\\sqrt{\\frac{EI}{ml^{3} } } $;$T=2.22\\sqrt{\\frac{ml^{3}}{EI} } $"
+        ],
+        "answer": "$\\omega =2.828\\sqrt{\\frac{EI}{ml^{3} } } $;$T=2.22\\sqrt{\\frac{ml^{3}}{EI} } $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05812_001.png"
+        ],
+        "question_id": 5812,
+        "question_type": "multi_choice",
+        "question": "在混凝土模板支撑工程中，<img=\"q_05812_001.png\">所示脚手架为（）。",
+        "choices": [
+            "扣件式",
+            "碗扣式",
+            "承插性盘扣式",
+            "圆盘式"
+        ],
+        "answer": "扣件式"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06919_001.png"
+        ],
+        "question_id": 6919,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_06919_001.png\">是门电路的真值表，写出逻辑表达式为___。",
+        "choices": [
+            "$Z=A\\bar{B}$",
+            "$Z=\\bar{A}B$",
+            "$Z=AB$",
+            "$Z=\\bar{A}\\bar{B}$"
+        ],
+        "answer": "$Z=\\bar{A}B$"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07625_001.png"
+        ],
+        "question_id": 7625,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07625_001.png\">所示的设备是一种DC to AC的变压器，它其实与转化器是一种__的过程。",
+        "choices": [
+            "电压顺变",
+            "电压逆变",
+            "电流顺变",
+            "电流逆变"
+        ],
+        "answer": "电压逆变"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06825_001.png"
+        ],
+        "question_id": 6825,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06825_001.png\">所示横担结构，小车可在梁AC上移动。已知小车上作用的载荷F=15kN，斜杆AB为圆截面钢杆，钢的许用应力170MPa。若载荷F通过小车对梁AC的作用可简化为一集中力,斜杆AB的直径应该大于等于（）。",
+        "choices": [
+            "14mm",
+            "15mm",
+            "16mm",
+            "17mm"
+        ],
+        "answer": "17mm"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08526_001.jpg"
+        ],
+        "question_id": 8526,
+        "question_type": "multi_choice",
+        "question": "某安全等级为乙级的办公楼,框架柱截面尺寸为1250×1000,承台下共设\n置了8根PHC高强预应力空心管桩,空心桩外径600mm,壁厚110mm,桩端敞口,桩长30m,摩擦型桩基础及其以上土的加权平均重度为76=20kN/$m^{2} $,地下水位\n标高-4.0m,不考虑地震作用。其基础平面及剖面如图<img=\"q_08526_001.jpg\">所示。假定,本工程前期进行了单桩竖向静载试验相同条件下的三相灵试桩的单桩竖\n向承载力分别为3400kN、3700kN、3800kN,已知承台效应系数为0.13。试问该\n桩基设计时,考虑承台效应的基桩竖向承载力特征值R(kxN),与下列何项数值最为接近?（）",
+        "choices": [
+            "1800",
+            "1900",
+            "2000",
+            "2100"
+        ],
+        "answer": "1900"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06430_001.png"
+        ],
+        "question_id": 6430,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06430_001.png\">所示，两直线的相对位置为（）。",
+        "choices": [
+            "平行",
+            "交叉",
+            "垂直",
+            "相交"
+        ],
+        "answer": "交叉"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05795_001.png"
+        ],
+        "question_id": 5795,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_05795_001.png\">所示为沥青混凝土摊铺机工作过程示意图，其中6是____。",
+        "choices": [
+            "侧壁提升油缸",
+            "熨平器",
+            "驱动轮",
+            "以上均不对"
+        ],
+        "answer": "熨平器"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06602_001.jpg"
+        ],
+        "question_id": 6602,
+        "question_type": "open",
+        "question": "稳压管电路如图<img=\"q_06602_001.jpg\">所示,稳压管$D_{Z1} $的稳定电压$U_{Z1} $=12V,$D_{Z2} $的稳定电压为$U_{Z2} $=6V,则电压$U_{0} $等于_V",
+        "choices": [],
+        "answer": "6"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00747_001.png"
+        ],
+        "question_id": 747,
+        "question_type": "multi_choice",
+        "question": "电路如<img=\"q_00747_001.png\">所示，静态时晶体管处于",
+        "choices": [
+            "饱和状态",
+            "放大状态",
+            "截止状态",
+            "无法判断"
+        ],
+        "answer": "饱和状态"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_03098_001.png"
+        ],
+        "question_id": 3098,
+        "question_type": "multi_choice",
+        "question": "中国大陆日常家居盆花消费量比较小，种类和品种比较杂，蝴蝶兰的消费主要是礼品花，红色花占市场消费量的80%以上，而且主要是图<img=\"q_03098_001.png\">中的____",
+        "choices": [
+            "君子兰",
+            "年宵花",
+            "蝴蝶兰",
+            "迷你蝴蝶兰"
+        ],
+        "answer": "年宵花"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_05785_001.png"
+        ],
+        "question_id": 5785,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_05785_001.png\">所示为一锥齿轮传动系统，锥齿轮1为主动轮，单向转动，转向如,<img=\"q_05785_001.png\">所示。那么，在传递力的过程中，齿根弯曲应力为（）变应力。",
+        "choices": [
+            "对称循环",
+            "不对称循环",
+            "脉动循环",
+            "以上都不对"
+        ],
+        "answer": "对称循环"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07782_001.png"
+        ],
+        "question_id": 7782,
+        "question_type": "open",
+        "question": "读图<img=\"q_07782_001.png\">，如图所示为钟表机构，运动由轮3输入，分别输至秒针S、分针M和时针H。各轮齿数如图中括号数字所示，2、3、4、5各轮模数相同。要求指针间保持秒、分、时的关系，求轮1齿数=____",
+        "choices": [],
+        "answer": "64"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10591_001.png"
+        ],
+        "question_id": 10591,
+        "question_type": "open",
+        "question": "如下图所示<img=\"q_10591_001.png\">简支梁,当力F直接作用在简支梁AB 的中点时梁内的$M_{max}  $超过许用应力值30%,为了消除过载现象配置了如图所示的辅助梁 CD。已知l=6m，则此辅助梁的跨度a为_m。（以小数形式表示，最多保留三位小数）",
+        "choices": [],
+        "answer": "1.385"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_00787_001.png"
+        ],
+        "question_id": 787,
+        "question_type": "multi_choice",
+        "question": "已知一棵二叉树的树形如<img=\"q_00787_001.png\">所示，其后序序列为e,a,c,b,d,g,f，树中与结点a同层的结点是",
+        "choices": [
+            "c",
+            "d",
+            "f",
+            "g"
+        ],
+        "answer": "d"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_01922_001.png"
+        ],
+        "question_id": 1922,
+        "question_type": "multi_choice",
+        "question": "图中<img=\"q_01922_001.png\">的树的先根序列_和后根序列_是什么。",
+        "choices": [
+            "ABCDFE;BDECFA",
+            "ABCDEF;BDECFA",
+            "ABCDFE;BDEFCA",
+            "ABCDEF;BDEFCA"
+        ],
+        "answer": "ABCDEF;BDEFCA"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04070_001.jpg"
+        ],
+        "question_id": 4070,
+        "question_type": "multi_choice",
+        "question": "认真识读<img=\"q_04070_001.jpg\">，可知下面对于板内①钢筋和③钢筋在现浇板内布置的位置描述正确的是（ ）。",
+        "choices": [
+            "\n①③钢筋均布置在现浇板的板底，①钢筋在板下部，③钢筋在①钢筋的下部",
+            "①③钢筋均布置在现浇板的板底，③钢筋在板下部，①钢筋在③钢筋的下部",
+            "①③钢筋均布置在现浇板的板顶，①钢筋在板上部，③钢筋在①钢筋的下部",
+            "①③钢筋均布置在现浇板的板顶，③钢筋在板上部，①钢筋在③钢筋的下部"
+        ],
+        "answer": "①③钢筋均布置在现浇板的板底，③钢筋在板下部，①钢筋在③钢筋的下部"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06112_001.png"
+        ],
+        "question_id": 6112,
+        "question_type": "multi_choice",
+        "question": " 判断<img=\"q_06112_001.png\">所示两直线的相对位置。_____",
+        "choices": [
+            "平行",
+            "相交",
+            "交叉",
+            "垂直"
+        ],
+        "answer": "交叉"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08682_001.png"
+        ],
+        "question_id": 8682,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_08682_001.png\">所示的B是$C_{4}$途径",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06610_001.jpg"
+        ],
+        "question_id": 6610,
+        "question_type": "multi_choice",
+        "question": "二极管电路如图<img=\"q_06610_001.jpg\">所示,试判断各图中的二极管是导通还是截业_",
+        "choices": [
+            "$D_{2} $更易导通;$D_{2} $反偏而截止",
+            "$D_{2} $更难导通;$D_{2} $反偏而截止",
+            "$D_{1} $反偏而截止;$D_{1} $更易导通",
+            "$D_{1} $反偏而截止;$D_{1} $更难导通"
+        ],
+        "answer": "$D_{2} $更易导通;$D_{2} $反偏而截止"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_11032_001.png"
+        ],
+        "question_id": 11032,
+        "question_type": "multi_choice",
+        "question": "电路如题<img=\"q_11032_001.png\">图所示，R=10Ω，变压器副边电压u=U=24\\sin \\omega t(V)。流过整流二极管的平均电流，I和承受的反向电压峰值U约为()",
+        "choices": [
+            " I=2A，U=17V",
+            "I=1A，U=24V",
+            "I=2A，U=24V",
+            " I=1A，U=17V"
+        ],
+        "answer": "I=1A，U=24V"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_02654_001.png"
+        ],
+        "question_id": 2654,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02654_001.png\">所示该机构由曲柄摇杆机构和摇杆滑块机构组成，它的名称是___。",
+        "choices": [
+            "筛料机构",
+            "插削机构",
+            "正置曲柄滑块机构",
+            "凸轮连杆机构"
+        ],
+        "answer": "筛料机构"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06937_001.png"
+        ],
+        "question_id": 6937,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_06937_001.png\">所示的CMOS 电路，故该电路为____。",
+        "choices": [
+            "低电平使能三态非门",
+            "低电平使能三态缓冲器",
+            "高电平使能三态缓冲器",
+            "高电平使能三态非门"
+        ],
+        "answer": "低电平使能三态非门"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_06830_001.png"
+        ],
+        "question_id": 6830,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_06830_001.png\">所示凸缘联轴节传递的力偶矩为200N·m，凸缘之间用四个对称分布在$D_{0}$=80mm圆周上的螺栓联接，螺栓的内径d=10mm，螺栓材料的许用切应力为60MPa,\n螺栓满足剪切强度条件。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_10087_001.png"
+        ],
+        "question_id": 10087,
+        "question_type": "multi_choice",
+        "question": "对图<img=\"q_10087_001.png\">体系作几何组成分析时,用三刚片组成规则进行分析所,则三个刚片应该是（）",
+        "choices": [
+            "刚片235、刚片134与基础",
+            "刚片134、链杆56与基础",
+            "刚片235、链杆34与基础",
+            "刚片235、链杆46与表基础"
+        ],
+        "answer": "刚片235、链杆46与表基础"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_04791_001.png"
+        ],
+        "question_id": 4791,
+        "question_type": "multi_choice",
+        "question": "在下面两图<img=\"q_04791_001.png\">中,一个工作在整流电动机状态,另一个工作在逆变发电机状态，整流电动机状态和逆变发电机状态的电流方向和电压方向为()",
+        "choices": [
+            "电流方向从上到下,电压方向上正下负;电流方向从下到上,电压Ud方向上正下负",
+            "电流方向从上到下,电压方向上正下负；电流方向从上到下,电压Ud方向上负下正",
+            "电流方向从下到上,电压方向上负下正；电流方向从上到下,电压Ud方向上负下正",
+            "电流方向从下到上,电压方向上正下负；电流方向从下到上,电压Ud方向上负下正"
+        ],
+        "answer": "电流方向从上到下,电压方向上正下负；电流方向从上到下,电压Ud方向上负下正"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_08548_001.jpg"
+        ],
+        "question_id": 8548,
+        "question_type": "multi_choice",
+        "question": "在图<img=\"q_08548_001.jpg\">示电路中,$U=100 \\sin (314t+10^{\\circ } )V $,R=1000$\\Omega $,L=1H,C=10$\\mu$ F,则电路总\n阻抗模为（）",
+        "choices": [
+            "111$\\Omega $",
+            "961$\\Omega $",
+            "732$\\Omega $",
+            "100.1$\\Omega $"
+        ],
+        "answer": "100.1$\\Omega $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07600_001.png"
+        ],
+        "question_id": 7600,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07600_001.png\">所示电路图的是直流绝缘监察装置的__",
+        "choices": [
+            "测量部分",
+            "信号部分",
+            "功率部分",
+            "警报部分"
+        ],
+        "answer": "测量部分"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07199_001.jpg"
+        ],
+        "question_id": 7199,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07199_001.jpg\">试求双重叔侄女婚配所生子女的近交系数(Fi)及其双亲的亲缘系数(RED)_",
+        "choices": [
+            "$F_{1} =\\sum \\left ( \\frac{1}{2} \\right )  ^{n} \\times \\left ( 1+F_{A}  \\right ) \n=\\left ( \\frac{1}{2}  \\right )^{4} \\times \\left ( 1+0 \\right ) +\\left ( \\frac{1}{2}  \\right )^{4} \\times \\left ( 1+0 \\right ) \n=\\frac{1}{8} $",
+            "$F_{1} =\\sum \\left ( \\frac{1}{2} \\right ) ^{n} \\times \\left ( 1+F_{A} \\right ) \n=\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0 \\right ) +\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0.01 \\right ) \n=\\frac{1}{8} $",
+            "$F_{1} =\\sum \\left ( \\frac{1}{2} \\right ) ^{n} \\times \\left ( 1+F_{A} \\right ) \n=\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0.01 \\right ) +\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0 \\right ) \n=\\frac{1}{8} $",
+            "F_{1} =\\sum \\left ( \\frac{1}{2} \\right ) ^{n} \\times \\left ( 1+F_{A} \\right ) \n=\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0 \\right ) +\\left ( \\frac{1}{2} \\right )^{4} \\times \\left ( 1+0.02 \\right ) \n=\\frac{1}{8} $"
+        ],
+        "answer": "$F_{1} =\\sum \\left ( \\frac{1}{2} \\right )  ^{n} \\times \\left ( 1+F_{A}  \\right ) \n=\\left ( \\frac{1}{2}  \\right )^{4} \\times \\left ( 1+0 \\right ) +\\left ( \\frac{1}{2}  \\right )^{4} \\times \\left ( 1+0 \\right ) \n=\\frac{1}{8} $"
+    },
+    {
+        "data_domain": "technology_and_engineering",
+        "image_name": [
+            "q_07599_001.png"
+        ],
+        "question_id": 7599,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07599_001.png\">所示电路图的是直流绝缘监察装置的__",
+        "choices": [
+            "测量部分",
+            "功率部分",
+            "信号部分",
+            "警报部分"
+        ],
+        "answer": "信号部分"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_02553_001.png"
+        ],
+        "question_id": 2553,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02553_001.png\">所示实验的代表人物是班杜拉",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01799_001.png"
+        ],
+        "question_id": 1799,
+        "question_type": "multi_choice",
+        "question": "1972年，苏联重启西伯利亚地区的贝阿铁路建设项目以开发油田和铜矿资源，在全国征召志愿者（海报<img=\"q_01799_001.png\">）,并承诺参与铁路修建的志愿者将享有住房和汽车的优先分配权。材料表明，这一时期的苏联重视（   ）",
+        "choices": [
+            "优化分配制度改善人民生活",
+            "运用市场规律促进经济发展",
+            "引进西方技术开发远东地区",
+            "调动社会资源优先发展工业"
+        ],
+        "answer": "调动社会资源优先发展工业"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04872_001.png"
+        ],
+        "question_id": 4872,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04872_001.png\">在面对问题时经常举棋不定，是哪种意志品质薄弱的表现?( )",
+        "choices": [
+            "独立性",
+            "果断性",
+            "坚定性",
+            "自制力"
+        ],
+        "answer": "果断性"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_10339_001.png"
+        ],
+        "question_id": 10339,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_10339_001.png\">所示人物是沃尔夫冈·科勒",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_09030_001.png"
+        ],
+        "question_id": 9030,
+        "question_type": "multi_choice",
+        "question": "根据图<img=\"q_09030_001.png\">2012～2015年，中国集成电路产业累计销售额在以下哪个范围内？（）",
+        "choices": [
+            "不到1万亿元",
+            "在1～1.1万亿元之间",
+            "在1.1～1.2万亿元之间",
+            "超过1.2万亿元"
+        ],
+        "answer": "在1.1～1.2万亿元之间"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04905_001.png"
+        ],
+        "question_id": 4905,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04905_001.png\">格式塔学派通过苛勒的猩猩抓香蕉实验证明了：学习不是桑代克所说的尝试错误，而是“顿悟”",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_03903_001.png"
+        ],
+        "question_id": 3903,
+        "question_type": "open",
+        "question": "<img=\"q_03903_001.png\">所示的心理学家的理论是指准备律、练习律和__",
+        "choices": [],
+        "answer": "效果律"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01332_001.png"
+        ],
+        "question_id": 1332,
+        "question_type": "multi_choice",
+        "question": "研究者采用下图<img=\"q_01332_001.png\">所示的设计方案 ，主要想达到的目的是（   ）。",
+        "choices": [
+            "平衡累积效应",
+            "恒定累积效应",
+            "消除累积效应",
+            "分离累积效应"
+        ],
+        "answer": "平衡累积效应"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08877_001.png"
+        ],
+        "question_id": 8877,
+        "question_type": "multi_choice",
+        "question": "由图<img=\"q_08877_001.png\">可知2014年每实现100万元的社会物流额，其运输费用平均约为多少万元？（）",
+        "choices": [
+            "5.6",
+            "10.6",
+            "2.6",
+            "5"
+        ],
+        "answer": "2.6"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08291_001.png"
+        ],
+        "question_id": 8291,
+        "question_type": "open",
+        "question": "某企业4月份生产情况<img=\"q_08291_001.png\">（单位：台）：该企业第一车间产量计划完成程度百分数为_%",
+        "choices": [],
+        "answer": "110"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08812_001.jpg"
+        ],
+        "question_id": 8812,
+        "question_type": "multi_choice",
+        "question": "现代社会学通常常采用特定的符号图示分析家庭结构，下图<img=\"q_08812_001.jpg\">表示（）",
+        "choices": [
+            "血缘关系",
+            "领养关系",
+            "亡故关系",
+            "入赘关系"
+        ],
+        "answer": "血缘关系"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_11839_001.png"
+        ],
+        "question_id": 11839,
+        "question_type": "multi_choice",
+        "question": "《现代汉语词典》收录的新词汇反映和记录了时代的变迁，<img=\"q_11839_001.png\">为不同版本收录的部分新词汇。这主要反映了我国（   ）",
+        "choices": [
+            "经济发展及人们生活水平的提高",
+            "私营经济逐渐成为国民经济主体",
+            "新时期经济体制改革深化的历程",
+            "工作重心由阶级斗争转向经济建设"
+        ],
+        "answer": "新时期经济体制改革深化的历程"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01324_001.png"
+        ],
+        "question_id": 1324,
+        "question_type": "multi_choice",
+        "question": "建国初期，为改变民间拜神祈福的旧习俗，国家鼓励创作新年画。如图<img=\"q_01324_001.png\">《拖拉机》在1950年全国新年画评奖中获甲等奖。该画“新”在\r\n①选用了年画创作的新题材  ②表现出移风易俗的新气象\r\n③展示了合作化运动的新成就  ④描绘出农业机械化的新愿景",
+        "choices": [
+            "①②④",
+            "②③④",
+            "①③④",
+            "①②③"
+        ],
+        "answer": "①②④"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_03889_001.png"
+        ],
+        "question_id": 3889,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_03889_001.png\">所示的现象可以总结为给一个人贴标签，不会对他起到定性导向作用",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_10771_001.jpg"
+        ],
+        "question_id": 10771,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_10771_001.jpg\">图片反映的是_",
+        "choices": [
+            "欧盟的成立",
+            "东盟的成立",
+            "非盟的成立 ",
+            "东南亚联盟的成立"
+        ],
+        "answer": "欧盟的成立"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01796_001.png"
+        ],
+        "question_id": 1796,
+        "question_type": "multi_choice",
+        "question": "综合<img=\"q_01796_001.png\">信息，最适合探究的主题应是（ ）",
+        "choices": [
+            "欧洲列强的兴衰和更替",
+            "资本主义的早期萌发",
+            "殖民体系的形成与演变",
+            "整体世界的发展主线"
+        ],
+        "answer": "殖民体系的形成与演变"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_06016_001.jpg"
+        ],
+        "question_id": 6016,
+        "question_type": "open",
+        "question": "请问在宋代保国寺大殿的建筑结构示意图中，哪个构件在当时被称为“栋”?<img=\"q_06016_001.jpg\">-",
+        "choices": [],
+        "answer": "A"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_12283_001.png"
+        ],
+        "question_id": 12283,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12283_001.png\">所示的心理学效应是__",
+        "choices": [
+            "半途效应",
+            "责任分散效应",
+            "旁观者效应",
+            "安泰效应"
+        ],
+        "answer": "半途效应"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08322_001.png"
+        ],
+        "question_id": 8322,
+        "question_type": "open",
+        "question": "抽查1000件产品资料如下<img=\"q_08322_001.png\">，若使用寿命800小时以上为合格品，这批产品合格率为_%",
+        "choices": [],
+        "answer": "93"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_09386_001.png"
+        ],
+        "question_id": 9386,
+        "question_type": "multi_choice",
+        "question": "由图<img=\"q_09386_001.png\">可知1～8 月空气合格天数超过20天的月份有多少个：（）",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_02578_001.png"
+        ],
+        "question_id": 2578,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_02578_001.png\">所示实验结果得出的观点是测查幼儿同伴交往的类型",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_09597_001.png"
+        ],
+        "question_id": 9597,
+        "question_type": "multi_choice",
+        "question": "下图<img=\"q_09597_001.png\">是我国1953年和2010年人口金字塔图。（）",
+        "choices": [
+            "a图所示人口增长特点是高出生率、高死亡率、高自然增长率",
+            "b图所示人口增长特点是高出生率、低死亡率、高自然增长率",
+            "a图表示1953年的人口结构，人口老龄化问题显著",
+            "b图表示2010年的人口结构，0～14岁男性多于女性"
+        ],
+        "answer": "b图表示2010年的人口结构，0～14岁男性多于女性"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04742_001.png"
+        ],
+        "question_id": 4742,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04742_001.png\">“心不在焉，则黑白在前而不见，擂鼓在侧而不闻”说明人的心理活动过程离不开( )。",
+        "choices": [
+            "注意",
+            "感知",
+            "记忆",
+            "思维"
+        ],
+        "answer": "注意"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04914_001.png"
+        ],
+        "question_id": 4914,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04914_001.png\">我国当前使用的《中国精神障碍分类方案与诊断标准》简称CCMD-3",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01634_001.png"
+        ],
+        "question_id": 1634,
+        "question_type": "open",
+        "question": "该人物是___，他在1662年打败荷兰殖民者收复台湾<img=\"q_01634_001.png\">",
+        "choices": [],
+        "answer": "郑成功"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_12277_001.png"
+        ],
+        "question_id": 12277,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_12277_001.png\">所示的犯罪心理学常见的心理效应是__",
+        "choices": [
+            "破窗效应",
+            "责任分散效应",
+            "旁观者效应",
+            "帕金森定律"
+        ],
+        "answer": "责任分散效应"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_11222_001.png"
+        ],
+        "question_id": 11222,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_11222_001.png\">是20世纪后半期世界工业发展情况表。下列对该图的解释比较合理的是 （   ）",
+        "choices": [
+            "低收入国家工业发展水平超过发达国家",
+            "高收入国家逐渐转向发展知识经济",
+            "世界经济多极化影响不同国家工业比重",
+            "高收入国家经济发展呈现下降趋势"
+        ],
+        "answer": "高收入国家逐渐转向发展知识经济"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04681_001.png"
+        ],
+        "question_id": 4681,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04681_001.png\">《红楼梦》中林黛玉多愁善感，聪颖多疑，孤僻清高，她的气质类型是()",
+        "choices": [
+            "胆汁质",
+            "多血质",
+            "黏液质",
+            "抑郁质"
+        ],
+        "answer": "抑郁质"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08298_001.png"
+        ],
+        "question_id": 8298,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_08298_001.png\">所示是华联商厦某个月甲、乙、丙三种品牌彩电的销售量统计图，则甲、丙两种品牌彩电该月的销售量之和为（）",
+        "choices": [
+            "50台",
+            "65台",
+            "75台",
+            "95台"
+        ],
+        "answer": "75台"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_06002_001.jpg"
+        ],
+        "question_id": 6002,
+        "question_type": "multi_choice",
+        "question": "请根据甲骨文的原文将译文中缺失的信息补充完整。<img=\"q_06002_001.jpg\">（）",
+        "choices": [
+            "①占卜②十日内③水牛④受到惊吓",
+            "①开会②一个月内③野猪④死了",
+            "①开会②十日内③水牛④死了",
+            "①占卜②一个月内③野猪④受到惊吓"
+        ],
+        "answer": "①占卜②十日内③水牛④受到惊吓"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04693_001.png"
+        ],
+        "question_id": 4693,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04693_001.png\">闪光融合仪通常用来考察()。",
+        "choices": [
+            "闪光灯效应",
+            "联觉现象",
+            "似动现象",
+            "诱动现象"
+        ],
+        "answer": "似动现象"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "a_05987_001.jpg",
+            "a_05987_002.jpg",
+            "a_05987_003.jpg",
+            "a_05987_004.jpg"
+        ],
+        "question_id": 5987,
+        "question_type": "multi_choice",
+        "question": "请问以上不属于二里头礼器群的是哪一项?()",
+        "choices": [
+            "<img=\"a_05987_001.jpg\">",
+            "<img=\"a_05987_002.jpg\">",
+            "<img=\"a_05987_003.jpg\">",
+            "<img=\"a_05987_004.jpg\">"
+        ],
+        "answer": "<img=\"a_05987_002.jpg\">"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_03916_001.png"
+        ],
+        "question_id": 3916,
+        "question_type": "open",
+        "question": "<img=\"q_03916_001.png\">所示的心理学家所主张的学派是__学派",
+        "choices": [],
+        "answer": "精神分析"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_09027_001.png"
+        ],
+        "question_id": 9027,
+        "question_type": "multi_choice",
+        "question": "由图<img=\"q_09027_001.png\">可知2018年全国产茶省份中，有几个省份的茶园单位面积茶叶产量高于1吨/公顷？（）",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01645_001.png"
+        ],
+        "question_id": 1645,
+        "question_type": "multi_choice",
+        "question": "观察小口尖底瓶形态演变图<img=\"q_01645_001.png\">，分析第Ⅷ可能见于____类型",
+        "choices": [
+            "半坡",
+            "庙底沟",
+            "庙底沟二期",
+            "庙底沟三期"
+        ],
+        "answer": "庙底沟二期"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_07749_001.jpg"
+        ],
+        "question_id": 7749,
+        "question_type": "multi_choice",
+        "question": "关于高奴铜石权，请问下列描述中错误的是哪个选项?<img=\"q_07749_001.jpg\">（）",
+        "choices": [
+            "这件器物大致铸造于秦王政时期。",
+            "权上铭文“高奴”是负责校量这件器物的主管人员名字，以明确责任。",
+            "秦始皇统一全国后及秦二世即位后曾两次对它进行校量并加刻铭文",
+            "根据第一次铸造时的铭文，这件器物是当时政府向农民征收粮食所用的衡器"
+        ],
+        "answer": "权上铭文“高奴”是负责校量这件器物的主管人员名字，以明确责任。"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_08050_001.png"
+        ],
+        "question_id": 8050,
+        "question_type": "multi_choice",
+        "question": "根据下表<img=\"q_08050_001.png\">所示的实验设计方案可得出这种设计属于（）",
+        "choices": [
+            "被试问设计",
+            "混合设计",
+            "ABBA设计",
+            "被试内设计"
+        ],
+        "answer": "被试内设计"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01816_001.png"
+        ],
+        "question_id": 1816,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01816_001.png\">恒定刺激法测量感受阈限 ()",
+        "choices": [
+            "9",
+            "10",
+            "10.56",
+            "11"
+        ],
+        "answer": "10.56"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "a_08595_001.png",
+            "a_08595_002.png",
+            "a_08595_003.png",
+            "a_08595_004.png",
+            "q_08595_001.jpg"
+        ],
+        "question_id": 8595,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_08595_001.jpg\">左边的图形由若干个元素组成。右边的备选图形中只只有一个是由组成左边图形式的元素组成的,请选出这一个。()注意,组成新的图形时,只能在三同一平面上,方向、位置可能出现变化。",
+        "choices": [
+            "<img=\"a_08595_001.png\">",
+            "<img=\"a_08595_002.png\">",
+            "<img=\"a_08595_003.png\">",
+            "<img=\"a_08595_004.png\">"
+        ],
+        "answer": "<img=\"a_08595_004.png\">"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_06038_001.jpg"
+        ],
+        "question_id": 6038,
+        "question_type": "multi_choice",
+        "question": "关于赙赗，以下说法错误的是哪一项?<img=\"q_06038_001.jpg\">（）",
+        "choices": [
+            "赙赗是办丧事时抚慰丧家的财物。",
+            "赙赗是周代礼制的一部分。",
+            "赙赗中的礼品，必须随已故者一起下葬。",
+            "赙赗既是一种国家制度，也是一种民间习俗。"
+        ],
+        "answer": "赙赗中的礼品，必须随已故者一起下葬。"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_04764_001.png"
+        ],
+        "question_id": 4764,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_04764_001.png\">贾维克和埃思曼所做的白鼠跳台实验证明：脑电活动的反响回路是( )的神经基础。",
+        "choices": [
+            "瞬时记忆",
+            "短时记忆",
+            "长时记忆",
+            "陈述性记忆"
+        ],
+        "answer": "瞬时记忆"
+    },
+    {
+        "data_domain": "humanities_and_social_sciences",
+        "image_name": [
+            "q_01667_001.png"
+        ],
+        "question_id": 1667,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_01667_001.png\">读图，分析该书的藏书链____",
+        "choices": [
+            "卢木斋→清华大学图书馆",
+            "卢木斋→北京大学图书馆",
+            "陈家康→北京师范大学图书馆",
+            "陈家康→北京大学图书馆"
+        ],
+        "answer": "陈家康→北京师范大学图书馆"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10700_001.PNG"
+        ],
+        "question_id": 10700,
+        "question_type": "multi_choice",
+        "question": "实用、安全、经济、新颖等是对产品设计进行评价的基本 原则。评价原则之间常存在矛盾。一般说来,要提高产品的性能,就要增加成本,导致产品价格上升;要考虑经济性,就制约了产品性能的提升。图<img=\"q_10700_001.PNG\">中体现性能与价格的这种关系的曲线是____;为了使价格与性能关系体现为另一曲线,最需要加大投入比重的要素是____",
+        "choices": [
+            "曲线①，资本",
+            "曲线①，技术",
+            "曲线②，技术",
+            "曲线②，资本"
+        ],
+        "answer": "曲线②，技术"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05466_001.png"
+        ],
+        "question_id": 5466,
+        "question_type": "multi_choice",
+        "question": "某人投资了三种股票，这三种股票的方差一协方差矩阵如下表<img=\"q_05466_001.png\">，矩阵第(i，j)位置上的元素为股票i与j的协方差，已知此人投资这三种股票的比例分别为0．3，0．4，0．3，则该股票投资组合的风险是( )。",
+        "choices": [
+            "5.1",
+            "6.0",
+            "8.1",
+            "9.2"
+        ],
+        "answer": "6.0"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11667_001.png"
+        ],
+        "question_id": 11667,
+        "question_type": "multi_choice",
+        "question": "某企业为了开发一种新产品，有3种方案可供选择：新建、扩建、改建，未来对这种\n新产品的需求状态有3种，即销路好、销路一般、销路差，每种状态出现的概率的大小不知，但可推算出各方案在未来各种市场需求状态下的损益情况，如<img=\"q_11667_001.png\">所示，用乐观决策法应选择（）。",
+        "choices": [
+            "新建方案",
+            "改建方案",
+            "扩建方案",
+            "以上都可以"
+        ],
+        "answer": "新建方案"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02897_001.png"
+        ],
+        "question_id": 2897,
+        "question_type": "multi_choice",
+        "question": "根据下列<img=\"q_02897_001.png\">资料，计算得出生产第5件产品时的边际成本为（）",
+        "choices": [
+            "15元",
+            "100元",
+            "115元",
+            "150元"
+        ],
+        "answer": "150元"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05868_001.png"
+        ],
+        "question_id": 5868,
+        "question_type": "open",
+        "question": "在某品牌的节能灯泡中随机抽出430只进行测试，使用时数资料如图<img=\"q_05868_001.png\">，计算使用时数的均值为___小时。",
+        "choices": [],
+        "answer": "3319.77"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02415_001.png"
+        ],
+        "question_id": 2415,
+        "question_type": "open",
+        "question": "已知某公司2006年销售收入为20000万元，销售净利率为12%，净利润的60%要分配给投资者。2006年12月31日的资产负债表如下<img=\"q_02415_001.png\">：该公司2007年计划销售比上年增加30%，为了实现这一目标，公司要一台设备，价值148万元。根据历史数据，公司流动资产和流动负债随销售同比增长。公司的销售净利率和利润分配率都保持不变。计算出2007年需外部筹资_万元",
+        "choices": [],
+        "answer": "1000"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02914_001.png"
+        ],
+        "question_id": 2914,
+        "question_type": "multi_choice",
+        "question": "某糖果企业为了调查糖果更换包装的效果，选取A超市为实验组.B超市为控制组，进行控制组实验组对比实验，实验时间为一个月，实验前后的月销售量数据见下表<img=\"q_02914_001.png\">：该实验的试验变数效果为()",
+        "choices": [
+            "200箱",
+            "400箱",
+            "500箱",
+            "700箱"
+        ],
+        "answer": "500箱"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_07220_001.png"
+        ],
+        "question_id": 7220,
+        "question_type": "open",
+        "question": "某商店历年销售额资料如下：<img=\"q_07220_001.png\">试用最小平方法拟合直线方程预测98年的该商店销售额________百万元。",
+        "choices": [],
+        "answer": "83.4"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_07257_001.png"
+        ],
+        "question_id": 7257,
+        "question_type": "multi_choice",
+        "question": "已知观察期数据资料如表所示<img=\"q_07257_001.png\">,建立一元线性回归方程模型$Y_{i}$=___________。",
+        "choices": [
+            "9+38$X_{i}$",
+            "9+19$X_{i}$",
+            "18+38$X_{i}$",
+            "18+19$X_{i}$"
+        ],
+        "answer": "18+19$X_{i}$"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05348_001.png"
+        ],
+        "question_id": 5348,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_05348_001.png\">所示弧弹性为__",
+        "choices": [
+            "无限弹性",
+            "富有弹性",
+            "单位弹性",
+            "缺乏弹性"
+        ],
+        "answer": "无限弹性"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11984_001.png"
+        ],
+        "question_id": 11984,
+        "question_type": "open",
+        "question": "<img=\"q_11984_001.png\">所示是A国经常项目数据。图中横坐标表示实践，纵坐标表示金额。数据显示，2008年到2012年期间,A国政府的经常项目收支平衡状得到了较大改善，A国政府可能采取的具体措施有关税、配额、政府间请求、外汇管制、实物管制，这些措施都属于_____（减少/增加/维持）进口。",
+        "choices": [],
+        "answer": "减少"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05859_001.png"
+        ],
+        "question_id": 5859,
+        "question_type": "open",
+        "question": "已知某局20个企业的有关统计资料如图<img=\"q_05859_001.png\">，计算产值的平均计划完成程度为___%。",
+        "choices": [],
+        "answer": "103.57"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_12880_001.jpg"
+        ],
+        "question_id": 12880,
+        "question_type": "multi_choice",
+        "question": "图中<img=\"q_12880_001.jpg\">A点的价格需求弹性的绝对值为(）",
+        "choices": [
+            "$\\frac{1}{3} $",
+            "$\\frac{2}{5} $",
+            "$\\frac{2}{3} $",
+            "$\\frac{3}{2} $"
+        ],
+        "answer": "$\\frac{2}{3} $"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10633_001.png"
+        ],
+        "question_id": 10633,
+        "question_type": "multi_choice",
+        "question": "福利雅轿车本量利分析及图示如<img=\"q_10633_001.png\">所示，那么营业利润为（）万元。",
+        "choices": [
+            "87666.386",
+            "87656.386",
+            "87766.386",
+            "87665.386"
+        ],
+        "answer": "87666.386"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02423_001.png"
+        ],
+        "question_id": 2423,
+        "question_type": "open",
+        "question": "某企业拟投资A、B两个项目，其有关资料如<img=\"q_02423_001.png\">，那么投资于A和B组合的期望收益率为（保留两位小数）（）%",
+        "choices": [],
+        "answer": "11.60"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11697_001.png"
+        ],
+        "question_id": 11697,
+        "question_type": "multi_choice",
+        "question": "一分析家要用特雷纳与夏普测度评估完全由美国普通股股票构成的资产组合P,过去８年间该资产组合、由标准普尔500指数测度的市场资产组合和美国国库券的平均年收益率情况如<img=\"q_11697_001.png\">所示，则资产组合X的特雷纳比率为（）。",
+        "choices": [
+            "6",
+            "6.67",
+            "0.222",
+            "0.462"
+        ],
+        "answer": "6.67"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_09228_001.png"
+        ],
+        "question_id": 9228,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09228_001.png\">，许多冰箱生产厂家近年来高举\"环保\"、\"健康\"旗帜,纷纷推出无氟水箱。它们所奉行的市场营销管理哲学是()",
+        "choices": [
+            "推销观念",
+            "生产观念",
+            "市场营销观念",
+            "社会市场营销观念"
+        ],
+        "answer": "社会市场营销观念"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05353_001.png"
+        ],
+        "question_id": 5353,
+        "question_type": "multi_choice",
+        "question": "由图<img=\"q_05353_001.png\">劣等品Em<0,指需求量随收入的增加而__的商品",
+        "choices": [
+            "增加",
+            "减少",
+            "保持不变",
+            "无法判断"
+        ],
+        "answer": "减少"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11682_001.png"
+        ],
+        "question_id": 11682,
+        "question_type": "multi_choice",
+        "question": "据市场预测，今后几年市场对某公司产品的需求会扩大（概率0.7），但也存在着销售量减少的可能（概率0.3），公司面临几种可能的选择：第一：扩建厂房更新设备，需投资700万元，若需求量扩大，公司每年可获利300万元；\n若需求量减少公司每年亏损50万元，服务期限5年。第二：使用老厂房，更新设备，需投资400万元，若需求扩大，每年可获利100万元，若需求减少，每年也可获利60万元，服务期限5年。第三：先更新设备，投资400万，一年后，若销路好，再扩建厂房，再投资400万，每年可获利300万元，服务期限总共是5年。其决策树如<img=\"q_11682_001.png\">所示，结点1期望值（）。",
+        "choices": [
+            "275万元",
+            "40万元",
+            "320万元",
+            "400万元"
+        ],
+        "answer": "275万元"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05663_001.png"
+        ],
+        "question_id": 5663,
+        "question_type": "multi_choice",
+        "question": "考虑在双头垄断市场上存在两个企业生产同类产品。为了在竞争中占得先机，双方都考虑是否采取降价的策略。他们决策的不同组合，导致收益矩阵如<img=\"q_05663_001.png\">所示。假设两家企业同时决策，那么该博弈的纳什均衡是_____。",
+        "choices": [
+            "企业 1 降价，企业 2 不降价",
+            "企业 1 不降价，企业 2 降价",
+            "企业 1 降价，企业 2 降价",
+            "企业 1 不降价，企业 2 不降价"
+        ],
+        "answer": "企业 1 降价，企业 2 不降价"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_00503_001.png"
+        ],
+        "question_id": 503,
+        "question_type": "open",
+        "question": "某公司年末资产负债表简略形式如下:<img=\"q_00503_001.png\">已知:（1）期末流动比率=1.5（2）期末资产负债率=50%(3)本期存货周转次数=4.5次(5)期末存货=期初存货(4)本期销售成本=315000元，那么未分配利润为__",
+        "choices": [],
+        "answer": "16000"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11688_001.png"
+        ],
+        "question_id": 11688,
+        "question_type": "multi_choice",
+        "question": "启明工程队承担一段铁路的维修任务，现因进入雨季，需要停工三个月。在停工期间如果搬走施工机械，需搬运费1800元。如果将施工机械留在原处，一种方案是花500元作防护措施，防止雨水浸泡施工机械。如不作防护措施，发生雨水浸泡时将损失10000元。如下暴雨发生洪水时，则不管是否有防护措施，施工机械留在原处都将受60000元的损失。据历史资料，该地区夏季高水位的发生率是25%，洪水的发生率是2%。有关决策树如<img=\"q_11688_001.png\">所示，状态点2的期望值为（）。",
+        "choices": [
+            "0",
+            "-1200元",
+            "-3700元",
+            "-1700元"
+        ],
+        "answer": "0"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_06388_001.png"
+        ],
+        "question_id": 6388,
+        "question_type": "multi_choice",
+        "question": "已知:某企业只生产一种产品,2006年前10个月该企业发生的别造费用见表<img=\"q_06388_001.png\">由此可知，低点坐标为__",
+        "choices": [
+            "（150，16000）",
+            "（200，20000）",
+            "（300，27000）",
+            "（350，28000）"
+        ],
+        "answer": "（150，16000）"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11999_001.png"
+        ],
+        "question_id": 11999,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_11999_001.png\">所示为每千人产品消费量与人均GNP的回归分析，那么当人均GNP每增加100美元时，汽车增加（）辆。",
+        "choices": [
+            "10.2",
+            "10.1",
+            "10",
+            "10.3"
+        ],
+        "answer": "10.1"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05532_001.png"
+        ],
+        "question_id": 5532,
+        "question_type": "open",
+        "question": "假定某商业银行敏感性资产与负债如<img=\"q_05532_001.png\">(单位:百万元)，请根据以上资料计算该银行融资缺口GAP是___百万元",
+        "choices": [],
+        "answer": "70"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10663_001.png"
+        ],
+        "question_id": 10663,
+        "question_type": "multi_choice",
+        "question": "保本图如<img=\"q_10663_001.png\">所示，可得知（）。",
+        "choices": [
+            "单位变动成本越大，总成本斜线率越大，保本点越高\n",
+            "单位变动成本越大，总成本斜线率越小，保本点越高\n",
+            "单位变动成本越小，总成本斜线率越小，保本点越高\n",
+            "单位变动成本越小，总成本斜线率越大，保本点越低\n"
+        ],
+        "answer": "单位变动成本越大，总成本斜线率越大，保本点越高\n"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10640_001.png"
+        ],
+        "question_id": 10640,
+        "question_type": "multi_choice",
+        "question": "某公司准备投产一种新产品，预计该产品可向市场出售10 000件，有关成本资料如<img=\"q_10640_001.png\">所示销售单价为（）时可保本。",
+        "choices": [
+            "400",
+            "405",
+            "410",
+            "415"
+        ],
+        "answer": "405"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02922_001.png"
+        ],
+        "question_id": 2922,
+        "question_type": "multi_choice",
+        "question": "某洗衣机生产企业通过行业分析发现，洗衣机市场已经趋于饱和，销售额难以增长，行业内部竞争异常激烈，中小企业不断推出，行业由分散走向集中。该企业一方面加强内部成本控制，以低成本获得竞争优势;另一方面，该企业积极研发新型产品，推出具有特色的内衣洗衣机，受到消费者的青睐。与此同时，为了扩大企业利润，该企业积极进军手机行业，推出自主品牌的手机产品。新型手机产品方案共有甲产品、乙产品、丙产品和丁产品四种可供选择，每种产品方案均存在着畅销、一般、滞销三种市场状态，对应的市场状态及损益值如下表<img=\"q_02922_001.png\">所示（单位：万元）。若采用折中原则进行决策（最大值系数a=0.75），则该企业应采用的方案为生产（）",
+        "choices": [
+            "甲产品",
+            "乙产品",
+            "丙产品",
+            "丁产品"
+        ],
+        "answer": "乙产品"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11659_001.png"
+        ],
+        "question_id": 11659,
+        "question_type": "multi_choice",
+        "question": "试根据如<img=\"q_11659_001.png\">所示下列数据用大中取小法中选方案是（）。",
+        "choices": [
+            "第一方案",
+            "第二方案",
+            "第三方案",
+            "以上都不选"
+        ],
+        "answer": "第三方案"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_04188_001.png"
+        ],
+        "question_id": 4188,
+        "question_type": "open",
+        "question": "资料:华丰公司是一家五金工具制造商。1996年和1997年年终会计报表的部分项目数据如下:<img=\"q_04188_001.png\">该企业1996年所有者权益变动率为__%",
+        "choices": [],
+        "answer": "164.43"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11015_001.png"
+        ],
+        "question_id": 11015,
+        "question_type": "open",
+        "question": "某投资方案的现金流量情况见下表<img=\"q_11015_001.png\">。由于未来市场不稳定,基准贴现率可能容易波动,可能出现12%、15%和20%三种情说,其发生的概率分别为0.3、0.5和0.2。试计算该方案的净现值_______万元。",
+        "choices": [],
+        "answer": "269.87"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10729_001.PNG"
+        ],
+        "question_id": 10729,
+        "question_type": "multi_choice",
+        "question": "甲商品的价格(P)与数量(Q)之间存在如图5<img=\"q_10729_001.PNG\">所示关系。假设甲商品曲线$D_{3}$不变,当甲商品曲线从$D_{1}$移到$D_{2}$时,市场可能出现的情况有（）\n①甲商品供不应求,价格上涨\n②甲商品的替代产品供给\n③甲商品的互补商品需求减少\n④甲商品的替代商品需求减少",
+        "choices": [
+            "②③",
+            "③④",
+            "①②",
+            "①④"
+        ],
+        "answer": "①②"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_04360_001.png"
+        ],
+        "question_id": 4360,
+        "question_type": "open",
+        "question": "某企业经营的商品为A、B、C、D四种,各商品的相关数据资料列于<img=\"q_04360_001.png\">之中。已知该企业的年固定总成本是80万元,试求盈亏平衡点的销售额。那么C的单位边际是_",
+        "choices": [],
+        "answer": "4"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_07301_001.png"
+        ],
+        "question_id": 7301,
+        "question_type": "open",
+        "question": "给定下列运输问题:(表中数据为产地$A_{i}$到$B_{j}$销地的单位运费)<img=\"q_07301_001.png\">，求出运输方案最优解的最小总运费__________。",
+        "choices": [],
+        "answer": "414"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_03270_001.png"
+        ],
+        "question_id": 3270,
+        "question_type": "open",
+        "question": "A公司上年主要财务数据如图<img=\"q_03270_001.png\">，（单位：万元）。假设本年的利润留存率提高到100%，其他的财务比率不变，不增发新股和回购股票，计算本年的实际增长率为___%。",
+        "choices": [],
+        "answer": "33.33"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_09271_001.png"
+        ],
+        "question_id": 9271,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09271_001.png\">，人们购买洗衣机所获得的核心产品是（）",
+        "choices": [
+            "洗衣机本身",
+            "清洁衣物的效用或利益",
+            "终身保修",
+            "优质品牌"
+        ],
+        "answer": "清洁衣物的效用或利益"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_04396_001.png"
+        ],
+        "question_id": 4396,
+        "question_type": "open",
+        "question": "某公司简化的资产负债表如下<img=\"q_04396_001.png\">销售毛利率为10%，则主营业务收入为_",
+        "choices": [],
+        "answer": "1000"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_01241_001.png"
+        ],
+        "question_id": 1241,
+        "question_type": "open",
+        "question": "某寡头垄断市场中只有两家生产同质产品的企业A和B，该市场需求函数为：P=100-0.5Q，其中，$Q=q_{A}+q_{B}$，A、B企业的成本函数分别为：$C_{A}=5q_{A}$，$C_{B}=0.5q_{B}^{2} $。假定一个卡特尔组织由3家企业组成，它们的总成本函数如下：<img=\"q_01241_001.png\">\n如果该卡特尔组织决定生产11单位产量，3个企业之间分配最低成本是______。",
+        "choices": [],
+        "answer": "237"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_06336_001.png"
+        ],
+        "question_id": 6336,
+        "question_type": "open",
+        "question": "某企业历年现金占用与销售额之间的关系如下表<img=\"q_06336_001.png\">所示,需要根据两者的关系,运用高低点法计算现金占用项目中不变资金和变动资金的数额。根据高低点法可知现金占用项目中每一元销售收入所需变动资金为__",
+        "choices": [],
+        "answer": "0.3"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10972_001.png"
+        ],
+        "question_id": 10972,
+        "question_type": "open",
+        "question": "某企业历年的获利情况如下所示:<img=\"q_10972_001.png\">试计算该企业8年间应纳的企业所得税额_______万元。\n(税率是33%)",
+        "choices": [],
+        "answer": "8.25"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11988_001.png"
+        ],
+        "question_id": 11988,
+        "question_type": "open",
+        "question": "如<img=\"q_11988_001.png\">所示中表示的是在一年期间，一个单位的X国货币分别兑换Y国货币和Z国货币的数量。图中一个单位X国货币兑换Y国和Z国货币的数量。那么对于X国消费来说，从Z国进口的产品更_____（便宜/昂贵）。",
+        "choices": [],
+        "answer": "便宜"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_05545_001.png"
+        ],
+        "question_id": 5545,
+        "question_type": "multi_choice",
+        "question": "A、B 和 C 三个项目，已知各期现金流情况如<img=\"q_05545_001.png\">。 如用净现值法来选择项目，机会成本是10%，选择___项目",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "A和C"
+        ],
+        "answer": "C"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_08857_001.png"
+        ],
+        "question_id": 8857,
+        "question_type": "open",
+        "question": "假设某一商业银行的资产负债如下：（假定存款客户不提现，不转存定期存款）<img=\"q_08857_001.png\">此时存款货币的总量是________元。",
+        "choices": [],
+        "answer": "250000"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_06372_001.png"
+        ],
+        "question_id": 6372,
+        "question_type": "open",
+        "question": "某公司计划对某项目投资,现有3种方案可供选择,<img=\"q_06372_001.png\">方案A是于第一年年初一次性投资760万元,方案B是于第四年年末一次性投资940万元,方案C是从第一年开始的连续四年内,每年年初投资200万元。假定该项目第五年末开始完工投产,且投产后三种方案均不必增加任何投资。若年利率为5%,i=5%,那么B方案投资成本现值为__",
+        "choices": [],
+        "answer": "773"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10684_001.png"
+        ],
+        "question_id": 10684,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_10684_001.png\">所示由于成本上升，AS曲线向左移，产出减少，价格_____。",
+        "choices": [
+            "上涨",
+            "下跌",
+            "保持不变",
+            "无法判断"
+        ],
+        "answer": "上涨"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_00537_001.png"
+        ],
+        "question_id": 537,
+        "question_type": "multi_choice",
+        "question": "某股票的收益分布的可能情况如下表<img=\"q_00537_001.png\">，试计算该股票的年预期收益率为( )。",
+        "choices": [
+            "0.20",
+            "0.24",
+            "0.21",
+            "0.18"
+        ],
+        "answer": "0.21"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_01247_001.png"
+        ],
+        "question_id": 1247,
+        "question_type": "open",
+        "question": "某银行发行三种不同颜色的债券，其资料如下：<img=\"q_01247_001.png\">则该行发行的全部债券的年平均利率_______%。",
+        "choices": [],
+        "answer": "14.32"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_07328_001.png"
+        ],
+        "question_id": 7328,
+        "question_type": "open",
+        "question": "下表<img=\"q_07328_001.png\">给出LM序列相关检验结果(滞后1期),试在5%的显着性水平下判断随机误差项是否存在一阶自相关________（存在/不存在）。",
+        "choices": [],
+        "answer": "不存在"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10970_001.png"
+        ],
+        "question_id": 10970,
+        "question_type": "open",
+        "question": "某中国公民2003年发生以下收入:<img=\"q_10970_001.png\">计算该人2003年应纳个人所得税_______元。",
+        "choices": [],
+        "answer": "25148"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_07126_001.png"
+        ],
+        "question_id": 7126,
+        "question_type": "open",
+        "question": "某城市有4家工业企业。每家企业的初始排污量和减少1吨污染的成本如下表<img=\"q_07126_001.png\">所示：政府的环保部门决定把排污量降低到200吨，为此，它给每家企业发放50吨的排污许可证并允许企业自由交易这些排污许可证（许可证是可分的，或者为简单计，每张许可证允许企业排放1吨污染）。假设排污许可证的交易市场是完全竞争市场。与排污许可证不允许交易的情况相比，降低污染的总成本下降了_",
+        "choices": [],
+        "answer": "490"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02956_001.png"
+        ],
+        "question_id": 2956,
+        "question_type": "open",
+        "question": "某公司拟筹资500万元，现有甲、乙两个备选方案如下表<img=\"q_02956_001.png\">：乙方案的平均资本成本为_%",
+        "choices": [],
+        "answer": "12.09"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02860_001.png"
+        ],
+        "question_id": 2860,
+        "question_type": "open",
+        "question": "振宁公司现有A、B、C三个投资中心，2006年各投资中心的有关资料如表所示<img=\"q_02860_001.png\">：计算A中心的剩余收益为_",
+        "choices": [],
+        "answer": "4.2"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_08822_001.png"
+        ],
+        "question_id": 8822,
+        "question_type": "multi_choice",
+        "question": "测得20个产品的重量（单位：kg）列成简表如下：<img=\"q_08822_001.png\">将其按区间[183.5,192.5]，........，[219.5,228.5]分为5组：计算出其样本均值和样本方差，$\\overline{y} $=_____，$\\overline{x} $=_____。$S_{y}^{2}$=______，$S_{x}^{2}$=______。",
+        "choices": [
+            "1；206；1.6534；102.3192",
+            "0；206；1.2632；102.3192",
+            "1；206；1.6534；153.1324",
+            "0；206；1.2632；153.1324"
+        ],
+        "answer": "0；206；1.2632；102.3192"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_08503_001.png"
+        ],
+        "question_id": 8503,
+        "question_type": "open",
+        "question": "1990年某月甲、乙两农贸市场某农产品价格和成交量、成交额资料如下:<img=\"q_08503_001.png\">试问_____农贸市场农产品的平均价格较高。",
+        "choices": [],
+        "answer": "甲"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_10651_001.png"
+        ],
+        "question_id": 10651,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_10651_001.png\">所示华谊兄弟盈利能力情况，说明该公司资本运营模式()。",
+        "choices": [
+            "没有问题",
+            "有较大问题",
+            "较不稳定",
+            "长期亏损"
+        ],
+        "answer": "没有问题"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_09262_001.png"
+        ],
+        "question_id": 9262,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09262_001.png\">，正常情况下能够一次或几次使用就被消费掉的有形物品(如文具等),被称为(）",
+        "choices": [
+            "耐用品",
+            "非耐用品",
+            "服务产品",
+            "特殊品"
+        ],
+        "answer": "非耐用品"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02941_001.png"
+        ],
+        "question_id": 2941,
+        "question_type": "open",
+        "question": "某公司拟向银行贷款400 000元用于扩大再生产，现有增产旧产品和上马新产品两套方案各方案今后每年的市场形势和投资收益测算如下表<img=\"q_02941_001.png\">所示。方案B的期望值为_",
+        "choices": [],
+        "answer": "4100"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_00475_001.png"
+        ],
+        "question_id": 475,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00475_001.png\">的变化表明，相关性越弱，组合投资的分散化效应（抵消风险效应）越强，投资效益越__。",
+        "choices": [
+            "低",
+            "高",
+            "不变",
+            "无法判断"
+        ],
+        "answer": "高"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_06394_001.png"
+        ],
+        "question_id": 6394,
+        "question_type": "open",
+        "question": "已知某公司连续两年的产销量、成本和售价等资料见表<img=\"q_06394_001.png\">该厂按变动成本法计算的营业利润第一年为150000元,第二年为100000元,存货采用先进先出法计价。那么利润差额简算法下第二年营业利润差额为__",
+        "choices": [],
+        "answer": "16000"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_11730_001.png"
+        ],
+        "question_id": 11730,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_11730_001.png\">所示人物的代表理论为（）。",
+        "choices": [
+            "需求理论",
+            "公平理论",
+            "期望理论",
+            "成就动机理论"
+        ],
+        "answer": "公平理论"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_03048_001.png"
+        ],
+        "question_id": 3048,
+        "question_type": "multi_choice",
+        "question": "计算财务盈亏平衡点时，首先估算达到盈亏平衡（净现值为零）时所需的年均现金流量，然后推算出产生这 些现金流量所必需的收入水平，最后计算出产生这些收入所需要的销售量，如图<img=\"q_03048_001.png\">，则盈亏平衡点的计算公式为___。",
+        "choices": [
+            "$Q=\\frac{ACF+F\\left( 1-T \\right )}{\\left ( a-V \\right )\\left( 1-T \\right )}$",
+            "$Q=\\frac{ACF+D+F\\left( 1-T \\right )}{\\left ( a-V \\right )\\left( 1-T \\right )}$",
+            "$Q=\\frac{ACF-D+F\\left( 1-T \\right )}{\\left ( a-V \\right )\\left( 1-T \\right )}$",
+            "$Q=\\frac{ACF-F\\left( 1-T \\right )}{\\left ( a-V \\right )\\left( 1-T \\right )}$"
+        ],
+        "answer": "$Q=\\frac{ACF-D+F\\left( 1-T \\right )}{\\left ( a-V \\right )\\left( 1-T \\right )}$"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_06328_001.png"
+        ],
+        "question_id": 6328,
+        "question_type": "open",
+        "question": "根据账户期末余额计算公式，<img=\"q_06328_001.png\">中1为__",
+        "choices": [],
+        "answer": "700"
+    },
+    {
+        "data_domain": "business",
+        "image_name": [
+            "q_02394_001.png"
+        ],
+        "question_id": 2394,
+        "question_type": "open",
+        "question": "某工业企业1990～1998年产品产量资料如下<img=\"q_02394_001.png\">，预测该工业企业2001年的产品产量为_吨",
+        "choices": [],
+        "answer": "1637"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03470_001.PNG"
+        ],
+        "question_id": 3470,
+        "question_type": "multi_choice",
+        "question": "已知函数$f(x)=ax^{3} +bx^{2} +cx+d$的图象如图<img=\"q_03470_001.PNG\">所示,那么（）",
+        "choices": [
+            "a<0,b<0,c>0",
+            "a>0,b>0,c<0",
+            "a<0,b>0,c>0",
+            "a>0,b<0,c>0"
+        ],
+        "answer": "a>0,b>0,c<0"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_01997_001.jpg"
+        ],
+        "question_id": 1997,
+        "question_type": "open",
+        "question": "下列两组<img=\"q_01997_001.jpg\">是表示化合物进行硝化反应的反应顺序正确的是___（填入“（1）”或“（2）”）",
+        "choices": [],
+        "answer": "（1）"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11544_001.png"
+        ],
+        "question_id": 11544,
+        "question_type": "open",
+        "question": "欲研究不同收入群体对某种特定商品是否有相同的购买习惯，市场研究人员调查了四个不同收入组的消费者共527人，购买习惯分为：经常购买，不购买，有时购买。调查结果如<img=\"q_11544_001.png\">，则其$\\chi ^{2} $值为_。",
+        "choices": [],
+        "answer": "17.626"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11154_001.png"
+        ],
+        "question_id": 11154,
+        "question_type": "multi_choice",
+        "question": "理想气体卡诺循环过程的两条绝热线下的面积大小(图<img=\"q_11154_001.png\">中阴影部分)分别为$S_{1} $和$S_{2} $,则两者的大小关系为()",
+        "choices": [
+            "$S_{1} $>$S_{2} $",
+            "$S_{1} $<$S_{2} $",
+            "$S_{1} $=$S_{2} $",
+            "无法确定"
+        ],
+        "answer": "$S_{1} $=$S_{2} $"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_10265_001.png"
+        ],
+        "question_id": 10265,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_10265_001.png\">如图所示，灯距地面高度为h_{1} ,一个人身高为$h_{2} $,在灯下以匀速率v沿水平直线行走，则他的头顶在地上的影子M点沿地面移动的速度$v_{m} $=__。",
+        "choices": [
+            "$\\frac{h_{1}v}{h_{1}-h_{2}}$",
+            "$\\frac{h_{1} v}{h_{2} -h_{1} } $",
+            "$\\frac{h_{2} v}{h_{1} -h_{2} } $",
+            "$\\frac{h_{2}v}{h_{2} -h_{1}}$"
+        ],
+        "answer": "$\\frac{h_{1}v}{h_{1}-h_{2}}$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_09575_001.png",
+            "a_09575_002.png",
+            "a_09575_003.png",
+            "a_09575_004.png",
+            "q_09575_001.png"
+        ],
+        "question_id": 9575,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09575_001.png\">为\"某向斜山地形地质示意图\"。与M点的地形一地层关系相符的是()",
+        "choices": [
+            "<img=\"a_09575_001.png\">",
+            "<img=\"a_09575_002.png\">",
+            "<img=\"a_09575_003.png\">",
+            "<img=\"a_09575_004.png\">"
+        ],
+        "answer": "<img=\"a_09575_002.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11192_001.png"
+        ],
+        "question_id": 11192,
+        "question_type": "open",
+        "question": "如图<img=\"q_11192_001.png\">，光能激发了类囊体膜上的叶绿素分子。激发能在叶绿素分子之间传递直至反应中心,在那里一个特殊的叶绿素分子被激发,释放一个电子(初级电荷分离)。电子通过__传递给NADP 形成NADPH。转移过程所产生的能量形成了一个跨类囊体膜的电化学梯度,电化学梯度促使ADP和无机磷酸合成ATP。",
+        "choices": [],
+        "answer": "电子传递链"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_02122_001.png"
+        ],
+        "question_id": 2122,
+        "question_type": "multi_choice",
+        "question": "如图所示<img=\"q_02122_001.png\">，一电子以速度$\\overline{v}$ 垂直地进入磁感强度为$\\overline{B}$的均匀场中，此电子在磁场中运动轨道所围的面积内的磁通量将（）",
+        "choices": [
+            "正比于B，反比于$V^{2}$ ",
+            "反比于B，正比于$V^{2}$ ",
+            "正比于B，反比于V",
+            "反比于B，反比于V"
+        ],
+        "answer": "反比于B，正比于$V^{2}$ "
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_01404_001.png"
+        ],
+        "question_id": 1404,
+        "question_type": "multi_choice",
+        "question": "测量了9对父子的身高,所得数据如<img=\"q_01404_001.png\">(单位:英寸),若父亲身高70英寸,则儿子的身高的置信度为95%的预测区间为_。",
+        "choices": [
+            "(65.5934,67.5014)",
+            " (66.5734,68.4014)",
+            " (67.5934,69.5014)",
+            " (69.5934,71.5014)"
+        ],
+        "answer": " (67.5934,69.5014)"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12483_001.png"
+        ],
+        "question_id": 12483,
+        "question_type": "open",
+        "question": "如图<img=\"q_12483_001.png\">，质量为M=16kg的实心滑轮，半径为R。一根细绳绕在滑轮上，一端挂一质量为m=8kg的物体，求绳子的张力为___N。",
+        "choices": [],
+        "answer": "40"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04984_001.png"
+        ],
+        "question_id": 4984,
+        "question_type": "open",
+        "question": "利用以下人口数据以及指数模型<img=\"q_04984_001.png\">来推测2020年的世界人口数_亿",
+        "choices": [],
+        "answer": "76"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03526_001.png"
+        ],
+        "question_id": 3526,
+        "question_type": "multi_choice",
+        "question": "一根长l=0.5m的轻绳，一端固定在天花板上，另一弟端系一质量为m的重物，如<img=\"q_03526_001.png\">所示。重物经推动后，在一水平面内作匀速圆周运动，转速$n=1\nr·s^{-1}$。这种装置叫作圆锥摆。求这时绳和竖直方向所成的角度_",
+        "choices": [
+            "30°13'",
+            "30°26'",
+            "60°13'",
+            "60°26'"
+        ],
+        "answer": "60°13'"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_10422_001.png",
+            "a_10422_002.png",
+            "a_10422_003.png",
+            "a_10422_004.png",
+            "q_10422_001.png"
+        ],
+        "question_id": 10422,
+        "question_type": "multi_choice",
+        "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性:\n<img=\"q_10422_001.png\">（）",
+        "choices": [
+            "<img=\"a_10422_001.png\">",
+            "<img=\"a_10422_002.png\">",
+            "<img=\"a_10422_003.png\">",
+            "<img=\"a_10422_004.png\">"
+        ],
+        "answer": "<img=\"a_10422_004.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04007_001.png"
+        ],
+        "question_id": 4007,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_04007_001.png\">AB、CD为长直导线，BC是一段圆心为O、半径为R的圆弧形导线,若导线通有电流I，求O点的磁感应强度_",
+        "choices": [
+            "$\\frac{\\mu_{0}I}{2\\pi R}(1-\\frac{\\sqrt{3}}{2}+\\frac{\\pi}{6})$，方向垂直向里",
+            "$\\frac{\\mu_{0}I}{2\\pi R}(1-\\frac{\\sqrt{3}}{2}+\\frac{\\pi}{6})$，方向垂直向外",
+            "$\\frac{\\mu_{0}I}{2\\pi R}(1-\\frac{\\sqrt{3}}{4}+\\frac{\\pi}{6})$，方向垂直向里",
+            "$\\frac{\\mu_{0}I}{2\\pi R}(1-\\frac{\\sqrt{3}}{4}+\\frac{\\pi}{6})$，方向垂直向外"
+        ],
+        "answer": "$\\frac{\\mu_{0}I}{2\\pi R}(1-\\frac{\\sqrt{3}}{2}+\\frac{\\pi}{6})$，方向垂直向里"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_06252_001.png"
+        ],
+        "question_id": 6252,
+        "question_type": "open",
+        "question": "读图<img=\"q_06252_001.png\">为一线性结构，指出产状要素名称___",
+        "choices": [],
+        "answer": "倾伏角"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_10451_001.png"
+        ],
+        "question_id": 10451,
+        "question_type": "multi_choice",
+        "question": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是：\n<img=\"q_10451_001.png\">（）",
+        "choices": [
+            "①②③，④⑤⑥",
+            "①②⑤，③④⑥",
+            "①②④，③⑤⑥",
+            "①③⑥，②④⑤"
+        ],
+        "answer": "①②⑤，③④⑥"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09328_001.png"
+        ],
+        "question_id": 9328,
+        "question_type": "multi_choice",
+        "question": "该图<img=\"q_09328_001.png\">所示为用__链接平末端的DNA片段",
+        "choices": [
+            "连杆分子",
+            "衔接物分子",
+            "人工合成分子",
+            "转录分子"
+        ],
+        "answer": "衔接物分子"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_00256_001.png",
+            "a_00256_002.png",
+            "a_00256_003.png",
+            "a_00256_004.png"
+        ],
+        "question_id": 256,
+        "question_type": "multi_choice",
+        "question": "下列异构体中，能进行$S_{N}2$反应，而无E2反应的是（）",
+        "choices": [
+            "<img=\"a_00256_001.png\">",
+            "<img=\"a_00256_002.png\">",
+            "<img=\"a_00256_003.png\">",
+            "<img=\"a_00256_004.png\">"
+        ],
+        "answer": "<img=\"a_00256_001.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12118_001.png"
+        ],
+        "question_id": 12118,
+        "question_type": "open",
+        "question": "<img=\"q_12118_001.png\">所示的是生物信息学中常使用的__",
+        "choices": [],
+        "answer": "生存分析"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09877_001.jpg"
+        ],
+        "question_id": 9877,
+        "question_type": "multi_choice",
+        "question": "成熟红细胞的主要能量来源是：<img=\"q_09877_001.jpg\">（）",
+        "choices": [
+            "2,3-⼆磷酸⽢油酸⽀路",
+            "脂肪酸β氧化",
+            "糖的有氧氧化",
+            "糖酵解"
+        ],
+        "answer": "糖酵解"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09076_001.png"
+        ],
+        "question_id": 9076,
+        "question_type": "open",
+        "question": "<img=\"q_09076_001.png\">中两图是否是同构图？__(填是、或者否)",
+        "choices": [],
+        "answer": "是"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_09127_001.png",
+            "a_09127_002.png",
+            "a_09127_003.png",
+            "a_09127_004.png"
+        ],
+        "question_id": 9127,
+        "question_type": "multi_choice",
+        "question": " 下列四个格，是分配格的是（  ）。",
+        "choices": [
+            "<img=\"a_09127_001.png\">",
+            "<img=\"a_09127_002.png\">",
+            "<img=\"a_09127_003.png\">",
+            "<img=\"a_09127_004.png\">"
+        ],
+        "answer": "<img=\"a_09127_003.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00411_001.png"
+        ],
+        "question_id": 411,
+        "question_type": "open",
+        "question": "丙酮(A)-水(B)系统在加入溶剂三氯乙烷(S)25°C下的溶解度曲线如图<img=\"q_00411_001.png\">所示。若萃余液R的组成为:丙酮27.5%、水71.5%、三氯乙烷1%,求与之平衡的萃取液E的组成以及此状况下的分配系数_\n",
+        "choices": [],
+        "answer": "1.42"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12487_001.png"
+        ],
+        "question_id": 12487,
+        "question_type": "open",
+        "question": "如图<img=\"q_12487_001.png\">，绳CO与竖直方向成30度角，O为一定滑轮，物体A与B用跨过定滑轮的细绳相连，处于平衡状态。已知B的质量为10 kg，地面对B的支持力为80 N。若不考虑滑轮的大小求物体B与地面的摩擦力为___。N",
+        "choices": [],
+        "answer": "34.6"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_02028_001.png"
+        ],
+        "question_id": 2028,
+        "question_type": "multi_choice",
+        "question": "下列卤代烃<img=\"q_02028_001.png\">按$S_{N} $1进行反应最快的是B",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04613_001.jpg"
+        ],
+        "question_id": 4613,
+        "question_type": "multi_choice",
+        "question": "此为滑坡要素示意<img=\"q_04613_001.jpg\">，试辨认序号13为_",
+        "choices": [
+            "滑坡平台",
+            "滑坡堆积",
+            "滑舌",
+            "扭裂隙"
+        ],
+        "answer": "扭裂隙"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07287_001.png"
+        ],
+        "question_id": 7287,
+        "question_type": "multi_choice",
+        "question": "磷脂中的胆碱对脂肪有亲和力，若体内胆碱不足，则会影响脂肪代谢，造成脂肪在肝内积聚，形成脂肪肝甚至会发炎肿胀。卵磷脂不但可以预防脂肪肝，还能促进肝细胞再生，同时，磷脂可降低血清胆固醇，图<img=\"q_07287_001.png\">中的卵磷脂胶囊有什么作用？____",
+        "choices": [
+            "预防高血压",
+            "促进骨骼生长",
+            "防治糖尿病",
+            "防止肝硬化并有助于肝功能的恢复"
+        ],
+        "answer": "防止肝硬化并有助于肝功能的恢复"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09319_001.png"
+        ],
+        "question_id": 9319,
+        "question_type": "multi_choice",
+        "question": "由图<img=\"q_09319_001.png\">可知缺失__的裂口，会导致DNA 连接酶不能将其封闭",
+        "choices": [
+            "碱基",
+            "核苷酸",
+            "核酸",
+            "基因"
+        ],
+        "answer": "核苷酸"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12515_001.png"
+        ],
+        "question_id": 12515,
+        "question_type": "open",
+        "question": "分析图<img=\"q_12515_001.png\">，指出断层两盘相对运动类型是___。",
+        "choices": [],
+        "answer": "正断层"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_10492_001.png",
+            "a_10492_002.png",
+            "a_10492_003.png",
+            "a_10492_004.png",
+            "q_10492_001.png"
+        ],
+        "question_id": 10492,
+        "question_type": "multi_choice",
+        "question": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：<img=\"q_10492_001.png\">（）",
+        "choices": [
+            "<img=\"a_10492_001.png\">",
+            "<img=\"a_10492_002.png\">",
+            "<img=\"a_10492_003.png\">",
+            "<img=\"a_10492_004.png\">"
+        ],
+        "answer": "<img=\"a_10492_002.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00350_001.png"
+        ],
+        "question_id": 350,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00350_001.png\">是酶的三种可逆抑制作用之一的双倒数作图，试问这是哪一种抑制？_",
+        "choices": [
+            "竞争性抑制",
+            "非竞争性抑制",
+            "反竞争性抑制",
+            "无法确定"
+        ],
+        "answer": "非竞争性抑制"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00379_001.png"
+        ],
+        "question_id": 379,
+        "question_type": "open",
+        "question": "如图<img=\"q_00379_001.png\">所示，常压下气温30°C、湿球温度28°C的湿空气在淋水室中与大量冷水充分接触后,被冷却成10°C的饱和空气,若将离开淋水室的气体再加热至30°C,此时空气的湿球温度是_℃",
+        "choices": [],
+        "answer": "18.1"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12500_001.png"
+        ],
+        "question_id": 12500,
+        "question_type": "open",
+        "question": "如图<img=\"q_12500_001.png\">，断层崖排列形式为___。",
+        "choices": [],
+        "answer": "之字型"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_10320_001.png"
+        ],
+        "question_id": 10320,
+        "question_type": "open",
+        "question": "判断<img=\"q_10320_001.png\">是否是分配格__（填是、否）",
+        "choices": [],
+        "answer": "是"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04997_001.png"
+        ],
+        "question_id": 4997,
+        "question_type": "multi_choice",
+        "question": "设f(x)具有三阶连续导数，y=f(x)的图形如<img=\"q_04997_001.png\">所示，问下列积分中的哪个积分值为负（）",
+        "choices": [
+            "$\\int_{-1}^{3}f(x)dx$",
+            "$\\int_{-1}^{3}f'(x)dx$",
+            "$\\int_{-1}^{3}f''(x)dx$",
+            "$\\int_{-1}^{3}f'''(x)dx$"
+        ],
+        "answer": "$\\int_{-1}^{3}f''(x)dx$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03580_001.png"
+        ],
+        "question_id": 3580,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_03580_001.png\">所示，一匀质细杆质量为m，长为l，可绕过一端O的水平轴自由转动，杆于水平位置由静止开始摆下。则杆转过$\\theta$角时的角速度为_",
+        "choices": [
+            "$\\sqrt{\\frac{g\\sin\\theta}{l}}$",
+            "$\\sqrt{\\frac{3g\\sin\\theta}{l}}$",
+            "$\\sqrt{\\frac{g\\cos\\theta}{l}}$",
+            "$\\sqrt{\\frac{3g\\cos\\theta}{l}}$"
+        ],
+        "answer": "$\\sqrt{\\frac{3g\\sin\\theta}{l}}$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12607_001.png"
+        ],
+        "question_id": 12607,
+        "question_type": "open",
+        "question": "设随机变量(X,Y)的分布律为<img=\"q_12607_001.png\">，则$P{X=2\\mid Y=2}$的值为_（以小数形式表示，最多保留两位小数）",
+        "choices": [],
+        "answer": "0.2"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07288_001.png"
+        ],
+        "question_id": 7288,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_07288_001.png\">是脂肪动员的过程，其中需要的关键酶是___",
+        "choices": [
+            "乳糜酶",
+            "胰脂肪酶",
+            "激素敏感脂肪酶",
+            "酯酶"
+        ],
+        "answer": "激素敏感脂肪酶"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09068_001.png"
+        ],
+        "question_id": 9068,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09068_001.png\">是哪个时期的海底景象__",
+        "choices": [
+            "泥盆纪",
+            "二叠纪",
+            "古近纪",
+            "石炭纪"
+        ],
+        "answer": "二叠纪"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03471_001.PNG"
+        ],
+        "question_id": 3471,
+        "question_type": "multi_choice",
+        "question": "函数f(x)的定义域为开区间(a,b),导函数f'(x)在(a,b)内的图象如图<img=\"q_03471_001.PNG\">所示,则函数f(x)在(a,b)内有极小值点共有（）",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_06271_001.png"
+        ],
+        "question_id": 6271,
+        "question_type": "open",
+        "question": "下图<img=\"q_06271_001.png\">A、B为共轭剪节理，MN为主剪裂面，求β角___",
+        "choices": [],
+        "answer": "共轭剪裂角"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_06268_001.png"
+        ],
+        "question_id": 6268,
+        "question_type": "multi_choice",
+        "question": "读图<img=\"q_06268_001.png\">，分析下图中构造变形时代范围___",
+        "choices": [
+            "J--$P_{1}$",
+            "J--$P_{2}$",
+            "$P_{1}--$T_{1}$",
+            "J--$T_{1}$"
+        ],
+        "answer": "J--$T_{1}$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00303_001.png"
+        ],
+        "question_id": 303,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00303_001.png\">是噬菌体侵染细菌的示意图,侵染细菌的正确顺序应是（）",
+        "choices": [
+            " BDAEC",
+            " ABCDE",
+            "BDEAC",
+            " DBAEC"
+        ],
+        "answer": " BDAEC"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09060_001.png"
+        ],
+        "question_id": 9060,
+        "question_type": "open",
+        "question": "<img=\"q_09060_001.png\">是不同地震波的振动方式，面波的速度只有横波的__倍。",
+        "choices": [],
+        "answer": "0.75"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09760_001.png"
+        ],
+        "question_id": 9760,
+        "question_type": "open",
+        "question": "如<img=\"q_09760_001.png\">，平行不整合时间上_,产状一致。",
+        "choices": [],
+        "answer": "不连续"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00314_001.png"
+        ],
+        "question_id": 314,
+        "question_type": "multi_choice",
+        "question": "根据<img=\"q_00314_001.png\">，给出D的化学式_",
+        "choices": [
+            "HgO",
+            "$Hg_{2}$$Cl_{2}$",
+            "$Hg_{2}Cl_{2}$",
+            "$HgNH_{2}$Cl"
+        ],
+        "answer": "$HgNH_{2}$Cl"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_05497_001.png"
+        ],
+        "question_id": 5497,
+        "question_type": "multi_choice",
+        "question": "读图<img=\"q_05497_001.png\">，图示为柄海鞘幼体结构示意图，B处为___",
+        "choices": [
+            "脊索",
+            "出水孔",
+            "入水孔",
+            "心"
+        ],
+        "answer": "出水孔"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_01393_001.png"
+        ],
+        "question_id": 1393,
+        "question_type": "open",
+        "question": "一个年级有三个小班,他们进行了一次数学考试,现从各个班级随机地抽取了一些学生,记录其成绩如<img=\"q_01393_001.png\">，试在显著性水平0.05下检验各班级的平均分数有无显著差异.设各个总体服从正态分布,且方差相等。_(填“有”或“无”)。",
+        "choices": [],
+        "answer": "无"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04953_001.png"
+        ],
+        "question_id": 4953,
+        "question_type": "multi_choice",
+        "question": "求$0\\le y\\le\\sin x$，$0\\le x\\le\\pi$所示平面图形<img=\"q_04953_001.png\">绕y轴旋转所得立体体积_",
+        "choices": [
+            "$\\pi$",
+            "$2\\pi$",
+            "$3\\pi$",
+            "$4\\pi$"
+        ],
+        "answer": "$2\\pi$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00328_001.png"
+        ],
+        "question_id": 328,
+        "question_type": "open",
+        "question": "用CaO(s)吸收高炉废气中$SO_{3}$的反应式下:CaO(s)+$SO_{3}$(g)=Ca$SO_{4}$(s);请根据下列热力学数据<img=\"q_00328_001.png\">,计算在373K时的△rGmθ_kJ·$mol^{-1}$",
+        "choices": [],
+        "answer": "-474.04"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00234_001.png"
+        ],
+        "question_id": 234,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_00234_001.png\">，将下列化合物按脱水反应速率由大到小排列_。",
+        "choices": [
+            "A>B>C",
+            "B>C>A",
+            "C>A>B",
+            "A>C>B"
+        ],
+        "answer": "B>C>A"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_09093_001.png",
+            "a_09093_002.png",
+            "a_09093_003.png",
+            "a_09093_004.png",
+            "q_09093_001.png"
+        ],
+        "question_id": 9093,
+        "question_type": "multi_choice",
+        "question": "集合A={1，2，3，4}上的偏序关系图如<img=\"q_09093_001.png\">，则它的哈斯图为(   )",
+        "choices": [
+            "<img=\"a_09093_001.png\">",
+            "<img=\"a_09093_002.png\">",
+            "<img=\"a_09093_003.png\">",
+            "<img=\"a_09093_004.png\">"
+        ],
+        "answer": "<img=\"a_09093_003.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_10171_001.png"
+        ],
+        "question_id": 10171,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_10171_001.png\">，反投影重建的图像会出现图像的边缘失锐(即为一种伪像)现象",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12127_001.png"
+        ],
+        "question_id": 12127,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_12127_001.png\">所示 ，收缩期心脏射血量的增加超过了微动脉扩张的效应，从而使收缩压__。而在舒张期，微动脉的扩张趋向于降低血压",
+        "choices": [
+            "增高",
+            "降低",
+            "不变",
+            "无法确定"
+        ],
+        "answer": "增高"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12545_001.png"
+        ],
+        "question_id": 12545,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12545_001.png\">，为中国与全球同纬度太阳辐射总量对比图。中国东南地区年太阳辐射总量较同纬度全球平均值低，其主要原因是中国东南地区（）",
+        "choices": [
+            "白昼时间短",
+            "云雨天气多",
+            "有沙漠分布",
+            "洋流影响大"
+        ],
+        "answer": "云雨天气多"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09128_001.png"
+        ],
+        "question_id": 9128,
+        "question_type": "multi_choice",
+        "question": "\nA，B，C表示三个集合，<img=\"q_09128_001.png\">中 阴影部分的集合表达式为_______ 。",
+        "choices": [
+            "$(A\\oplus B)-C$",
+            "$(A\\oplus C)-B $",
+            "$(B\\oplus C)$",
+            "$(B\\oplus C)-A $"
+        ],
+        "answer": "$(B\\oplus C)-A $"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_02010_001.png"
+        ],
+        "question_id": 2010,
+        "question_type": "multi_choice",
+        "question": "下列<img=\"q_02010_001.png\">糖类化合物，属于D-糖的是（3）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_08470_001.jpg"
+        ],
+        "question_id": 8470,
+        "question_type": "multi_choice",
+        "question": "HBV包膜上的S蛋白的成分是（ ）<img=\"q_08470_001.jpg\">-",
+        "choices": [
+            "PreS1Ag",
+            "PreS2Ag",
+            "PreS1Ag PreS2Ag",
+            "HBsAg"
+        ],
+        "answer": "HBsAg"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11172_001.png"
+        ],
+        "question_id": 11172,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_11172_001.png\">为II类(\"剪切和粘贴\")转座子。转座子(红色)两侧是__,编码一个转座酶(绿色圆形),该酶催化转座子从基因组的一个位置中被切除并插入到基因组的不同位置上。在此过程中,一个重复序列的拷贝保留在原转座子的位置上(橙色\"足迹\")",
+        "choices": [
+            "短重复序列(橙色)",
+            "长重复序列(橙色)",
+            "短重复序列(绿色)",
+            "长重复序列(绿色)"
+        ],
+        "answer": "短重复序列(橙色)"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_12544_001.png"
+        ],
+        "question_id": 12544,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12544_001.png\">，为中国与全球同纬度太阳辐射总量对比图。中国不同地区年太阳辐射总量差异最大的地区在（）",
+        "choices": [
+            "$20^{\\circ}$附近",
+            "$25^{\\circ}$附近",
+            "$30^{\\circ}$附近",
+            "$35^{\\circ}$附近"
+        ],
+        "answer": "$30^{\\circ}$附近"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_10307_001.png"
+        ],
+        "question_id": 10307,
+        "question_type": "open",
+        "question": "<img=\"q_10307_001.png\">中这对图是否同构？__（填是、否）",
+        "choices": [],
+        "answer": "否"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00397_001.png"
+        ],
+        "question_id": 397,
+        "question_type": "open",
+        "question": "分离如图<img=\"q_00397_001.png\">所示的低浓度气体吸收-解吸系统,已知吸收塔的的传质单元高度$H_{og}$=0.4m,解吸塔的传质单元高度H『oG=1.0m,处理气体量G=1000kmol/h,吸收剂循环量L=150kmol/h,解吸气体本流量G'=300kmol/h,各有关浓度(摩尔分数)如下:y1=0.015,y'1=0.045,y2'=0，x2=0.005,吸收系统的相平衡关系为ye=0.15x,解吸系统的相平衡关系为y『e=0.6x。试求吸收塔的填料层高度H及解吸塔的填料层高度H『_m",
+        "choices": [],
+        "answer": "7.2"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11512_001.png"
+        ],
+        "question_id": 11512,
+        "question_type": "multi_choice",
+        "question": "某企业三种产品的生产数据如<img=\"q_11512_001.png\">，以销售额为权数计算的销售量加权平均指数为（）",
+        "choices": [
+            "101.77%",
+            "101.80%",
+            "101.84%",
+            "101.23%"
+        ],
+        "answer": "101.80%"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00184_001.png"
+        ],
+        "question_id": 184,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_00184_001.png\">，在升降机天花板上拴有轻绳,其下端系一重物,当升降机以加速度a;上升时,绳中的张力正好等于绳子所受的最大张力的一半。向升降机以多大加速度上升时,绳子刚好被拉断（）",
+        "choices": [
+            "2a",
+            "2（a+g）",
+            "2a+g",
+            "a+g"
+        ],
+        "answer": "2a+g"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_10495_001.png",
+            "a_10495_002.png",
+            "a_10495_003.png",
+            "a_10495_004.png",
+            "q_10495_001.png"
+        ],
+        "question_id": 10495,
+        "question_type": "multi_choice",
+        "question": "从所给的四个选项中，选出一个最合适的填入问号处，使之呈现一定的规律：<img=\"q_10495_001.png\">（）",
+        "choices": [
+            "<img=\"a_10495_001.png\">",
+            "<img=\"a_10495_002.png\">",
+            "<img=\"a_10495_003.png\">",
+            "<img=\"a_10495_004.png\">"
+        ],
+        "answer": "<img=\"a_10495_002.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07914_001.png"
+        ],
+        "question_id": 7914,
+        "question_type": "open",
+        "question": "如<img=\"q_07914_001.png\">所示 ，原尾目头部卵形或梨形，前端略狭细。无触角，缺复眼与单眼，背面两侧有1假眼，是特有的感觉器官，假眼表面有无数微孔，结构与化学、温、湿感受器相似。头部前下方为__。",
+        "choices": [],
+        "answer": "口器"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00399_001.png"
+        ],
+        "question_id": 399,
+        "question_type": "open",
+        "question": "如图<img=\"q_00399_001.png\">所示,在一常压精馏塔内分离苯和甲苯混合物,均塔顶采用全凝器,泡点回流,塔底间接蒸汽加热。原料处理量为4000 kg/h,组成为\n0.4(苯的质量分数,下同),要求塔顶馏出液组成为0.96,苯的回收率不低于98%,泡点进料。已知体系的相对挥发度 a=2.5,实际回流比为最小回流比的1.5倍。已知苯、甲苯的摩尔质量分别为78.11g/mol和92.13g/mol。试求塔顶产品量D=_(kmol/h)",
+        "choices": [],
+        "answer": "20.77"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04608_001.png"
+        ],
+        "question_id": 4608,
+        "question_type": "multi_choice",
+        "question": "此为重力滑动构造结构要素<img=\"q_04608_001.png\">，序号3为_",
+        "choices": [
+            "主滑面",
+            "滑坡体",
+            "外援推挤带",
+            "下伏系统"
+        ],
+        "answer": "主滑面"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11937_001.png"
+        ],
+        "question_id": 11937,
+        "question_type": "multi_choice",
+        "question": "请用IUPAC命名或写结构<img=\"q_11937_001.png\">-",
+        "choices": [
+            "5-乙基-4-丙基-4-辛烯-2-炔",
+            "5-甲基-4-丙基-4-辛烯-3-炔",
+            "5-甲基-4-丙基-4-辛烯-2-炔",
+            "5-乙基-4-丙基-4-辛烯-3-炔"
+        ],
+        "answer": "5-甲基-4-丙基-4-辛烯-2-炔"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_08925_001.png",
+            "q_08925_002.png"
+        ],
+        "question_id": 8925,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_08925_001.png\">与<img=\"q_08925_002.png\">相互关系是()",
+        "choices": [
+            "对映体",
+            "非对映体",
+            "相同化合物",
+            "构造异构体"
+        ],
+        "answer": "对映体"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00336_001.png"
+        ],
+        "question_id": 336,
+        "question_type": "multi_choice",
+        "question": "根据<img=\"q_00336_001.png\">实验事实确定各字母E所代表的物质_",
+        "choices": [
+            "$Fe(OH)_{3}$",
+            "$[Fe$(SCN)_{6}$]$^{3-}$",
+            "$[FeF$_{6}$]$^{3-}$",
+            "$Fe$SO_{4}$"
+        ],
+        "answer": "$[FeF$_{6}$]$^{3-}$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09847_001.png"
+        ],
+        "question_id": 9847,
+        "question_type": "multi_choice",
+        "question": "比较<img=\"q_09847_001.png\">中化合物的酸性()",
+        "choices": [
+            "b>c >d>e >a",
+            "d>c >b >a >e",
+            "d>c >a >b >e",
+            "e>d>c>a>b"
+        ],
+        "answer": "d>c >a >b >e"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_08028_001.png"
+        ],
+        "question_id": 8028,
+        "question_type": "open",
+        "question": "<img=\"q_08028_001.png\">中，定义了函数f,g,h ，指出f,g,h中哪个函数存在反函数",
+        "choices": [],
+        "answer": "g"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11494_001.png"
+        ],
+        "question_id": 11494,
+        "question_type": "multi_choice",
+        "question": "从两个总体中分别抽取$n_{1} =7$和$n_{2} =6$的两个独立随机样本。经计算得到下面的方差分析表<img=\"q_11494_001.png\">，表中“A”单元格内的结果是（）",
+        "choices": [
+            "4.5",
+            "5.5",
+            "6.5",
+            "7.5"
+        ],
+        "answer": "5.5"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11187_001.png"
+        ],
+        "question_id": 11187,
+        "question_type": "open",
+        "question": "如图<img=\"q_11187_001.png\">为线粒体中的蛋白转运系统。与叶绿体情况相似,定位在线粒体基质中的蛋白质也需要特定分子伴侣的协助才能通过线粒体的内膜和外膜来进行转转运。转运过程中需要通过__,随后由基质中的分子伴侣协助折叠成有功能的构型",
+        "choices": [],
+        "answer": "跨内膜和外膜的转运蛋白"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11139_001.png"
+        ],
+        "question_id": 11139,
+        "question_type": "multi_choice",
+        "question": "一个带正电的点电荷飞入如图<img=\"q_11139_001.png\">所示的电场中,它在电场中的运动轨迹为()",
+        "choices": [
+            "沿a",
+            "沿b",
+            "沿c",
+            "沿d"
+        ],
+        "answer": "沿d"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09283_001.png"
+        ],
+        "question_id": 9283,
+        "question_type": "multi_choice",
+        "question": "根据下表<img=\"q_09283_001.png\">可知r-对策者是以提高__能力和扩散能力取得生存",
+        "choices": [
+            "增殖",
+            "扩散",
+            "竞争",
+            "防御"
+        ],
+        "answer": "增殖"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09501_001.png"
+        ],
+        "question_id": 9501,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09501_001.png\">中曲线为海洋表层海水等温线,箭头为洋流流向,下列叙述正确的是()",
+        "choices": [
+            "甲为南半球暖流",
+            "乙为北半球暖流",
+            "甲为北半球寒流",
+            "乙为南半球寒流"
+        ],
+        "answer": "乙为北半球暖流"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03514_001.png"
+        ],
+        "question_id": 3514,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_03514_001.png\">所示，真空中一长为L的均匀带电细直杆，总电量为q，试求在直杆延长线上到杆的一端距离为d的点P的电场强度_",
+        "choices": [
+            "$\\frac{q}{4\\pi\\varepsilon_{0}d(L+d)}i$",
+            "$\\frac{q}{2\\pi \\varepsilon_{0}d(L+d)}i$",
+            "$\\frac{3q}{4\\pi \\varepsilon_{0}d(L+d)}i$",
+            "$\\frac{5q}{4\\pi \\varepsilon_{0}d(L+d)}i$"
+        ],
+        "answer": "$\\frac{q}{4\\pi\\varepsilon_{0}d(L+d)}i$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09075_001.png"
+        ],
+        "question_id": 9075,
+        "question_type": "multi_choice",
+        "question": "观察斜坡面流的侵蚀和堆积示意图（如<img=\"q_09075_001.png\">）所示，下列关于斜坡面流说法错误的是（）",
+        "choices": [
+            "随着斜坡的变缓,水流流速减小,被冲刷和再沉积的物质越来越细",
+            "对于坡积作用较有利的条件是寒带地区",
+            "面流(亦称片流)指降雨或融雪时产生的、无固定水道的细小水流沿斜坡向下的运动形式",
+            "当山坡上有较大的石块散布时,在面流的作用下,由于不石块的保护作用,斜坡面流难于冲刷到石块下部的松散物质。久而久之,石块下部的松散物质将高出四周部分,形成突出的土柱或土林"
+        ],
+        "answer": "面流(亦称片流)指降雨或融雪时产生的、无固定水道的细小水流沿斜坡向下的运动形式"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07876_001.png"
+        ],
+        "question_id": 7876,
+        "question_type": "open",
+        "question": "<img=\"q_07876_001.png\">所示成熟B细胞具有发育可塑性,—__功能丧失，促使B细胞向髓系世系的转变",
+        "choices": [],
+        "answer": "pax5"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_05738_001.png"
+        ],
+        "question_id": 5738,
+        "question_type": "multi_choice",
+        "question": "如图所示<img=\"q_05738_001.png\">，质量为 M 的物体 A 静止于水平面上，它与平面之间的滑动摩擦系数为$\\mu $ ，另一质量为m 的小球 B 以沿水平方向向右的速度v与物体A 发生完全非弹性碰撞则碰后它们在水平方向滑过的距离 L=_",
+        "choices": [
+            "$\\frac{\\left ( mv \\right )^{2} }{\\left ( M+m \\right )^{2}g\\mu } $",
+            "$\\frac{\\left ( mv \\right )^{2} }{2\\left ( M+m \\right )^{2}g\\mu } $",
+            "$\\frac{\\left ( Mv \\right )^{2} }{\\left ( M+m \\right )^{2}g\\mu } $",
+            "$\\frac{\\left ( Mv \\right )^{2} }{2\\left ( M+m \\right )^{2}g\\mu } $"
+        ],
+        "answer": "$\\frac{\\left ( mv \\right )^{2} }{2\\left ( M+m \\right )^{2}g\\mu } $"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_05003_001.png"
+        ],
+        "question_id": 5003,
+        "question_type": "multi_choice",
+        "question": "求<img=\"q_05003_001.png\">中阴影部分的面积_",
+        "choices": [
+            "$\\frac{1}{2}-\\ln_{}{2}$",
+            "$\\frac{3}{2}-\\ln_{}{2}$",
+            "$\\frac{3}{2}-\\ln_{}{3}$",
+            "$\\frac{1}{2}-\\ln_{}{3}$"
+        ],
+        "answer": "$\\frac{3}{2}-\\ln_{}{2}$"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_01616_001.png"
+        ],
+        "question_id": 1616,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_01616_001.png\">，曲线段的方程为y=f(x),函数f(x)在区间[0,a]上有连续的导数，则定积分$\\int_{a}^{0} f′(x)dx$等于",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "C"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11089_001.png"
+        ],
+        "question_id": 11089,
+        "question_type": "open",
+        "question": "各种氨基酸的α碳原子都连着一个羟基、一个羧基、一个氢原子和一个R基<img=\"q_11089_001.png\">所示为_",
+        "choices": [],
+        "answer": "天冬酰胺"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_06281_001.png"
+        ],
+        "question_id": 6281,
+        "question_type": "open",
+        "question": "在下面下半球赤平投影图<img=\"q_06281_001.png\">中，两大弧为褶皱两翼产状，A为轴面产状，回答下列问题： 褶皱西翼倾向为___",
+        "choices": [],
+        "answer": "NW"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00227_001.png"
+        ],
+        "question_id": 227,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_00227_001.png\">，实现下述转化最好的路线是，先_，再_，最后_。",
+        "choices": [
+            "卤化；硝化；磺化",
+            "磺化；硝化；卤化",
+            "磺化；卤化；硝化",
+            "卤化；磺化；硝化"
+        ],
+        "answer": "卤化；磺化；硝化"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04279_001.png"
+        ],
+        "question_id": 4279,
+        "question_type": "multi_choice",
+        "question": "根据格栅坝的结构<img=\"q_04279_001.png\">式可得此为_",
+        "choices": [
+            "耙式坝",
+            "切口坝",
+            "梳齿坝",
+            "缝隙坝"
+        ],
+        "answer": "切口坝"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_08192_001.png"
+        ],
+        "question_id": 8192,
+        "question_type": "open",
+        "question": "如<img=\"q_08192_001.png\">所示的人物是__",
+        "choices": [],
+        "answer": "孟德尔"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_05379_001.png"
+        ],
+        "question_id": 5379,
+        "question_type": "multi_choice",
+        "question": "在<img=\"q_05379_001.png\">酸催化反应中,可能出现的中间体是（）",
+        "choices": [
+            "i+ii",
+            "ii+iii",
+            "ii+iv",
+            "iii+iv"
+        ],
+        "answer": "ii+iv"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_05212_001.png"
+        ],
+        "question_id": 5212,
+        "question_type": "multi_choice",
+        "question": "读图<img=\"q_05212_001.png\">，C、P之间的接触关系为____",
+        "choices": [
+            "整合接触关系",
+            "角度不整合接触",
+            "平行不整合接触",
+            "沉积接触"
+        ],
+        "answer": "整合接触关系"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09516_001.png"
+        ],
+        "question_id": 9516,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_09516_001.png\">中③所属内外力作用的表现形式为——",
+        "choices": [
+            "地壳运动",
+            "重熔再生作用",
+            "气候变化",
+            "变质作用"
+        ],
+        "answer": "重熔再生作用"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00349_001.png"
+        ],
+        "question_id": 349,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00349_001.png\">是酶的三种可逆抑制作用之一的双倒数作图，试问这是哪一种抑制？_",
+        "choices": [
+            "竞争性抑制",
+            "非竞争性抑制",
+            "反竞争性抑制",
+            "无法确定"
+        ],
+        "answer": "竞争性抑制"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04647_001.png"
+        ],
+        "question_id": 4647,
+        "question_type": "open",
+        "question": "在下面赤平投影<img=\"q_04647_001.png\">中，F表示断层面产状，S为断层面上擦痕，则S的侧伏角为_",
+        "choices": [],
+        "answer": "350"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_04273_001.png"
+        ],
+        "question_id": 4273,
+        "question_type": "multi_choice",
+        "question": "下<img=\"q_04273_001.png\">展示了地表流水的全过程。地表流水主要来自大气降水，雨水降落到地貌之后，一部分蒸发返回大气层，一部分渗透到土地或岩石裂隙中成为地下水，剩下的沿_流动，成为地表流水",
+        "choices": [
+            "地下",
+            "河流",
+            "山脊",
+            "地表"
+        ],
+        "answer": "地表"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_00443_001.png"
+        ],
+        "question_id": 443,
+        "question_type": "open",
+        "question": "某湿物料在常压干燥器内进行绝热干燥,干燥后的产品为4000kg/h,湿物料的含水率为15%(湿基,下同),产品的含水率不得高于1%,空气的初始温度为20°C,相对湿度为40%。空气预热至120°C后进入干燥器,气体出干燥器的温度选定为70°C。空气与物料在干燥系统中的变化过程如图<img=\"q_00443_001.png\">所示。求干燥器的热效率_%",
+        "choices": [],
+        "answer": "50"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "a_05383_001.png",
+            "a_05383_002.png",
+            "a_05383_003.png",
+            "a_05383_004.png",
+            "q_05383_001.png"
+        ],
+        "question_id": 5383,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_05383_001.png\">的主要产物是（）",
+        "choices": [
+            "<img=\"a_05383_001.png\">",
+            "<img=\"a_05383_002.png\">",
+            "<img=\"a_05383_003.png\">",
+            "<img=\"a_05383_004.png\">"
+        ],
+        "answer": "<img=\"a_05383_001.png\">"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_11061_001.png"
+        ],
+        "question_id": 11061,
+        "question_type": "open",
+        "question": "葡萄糖在溶液中往往以环状结构存在，成环是由糖分子中的羰基与倒数第二位碳原子上的羟基相互反应形成半缩醛或半缩酮而成。<img=\"q_11061_001.png\">C_{1}的羟基写在环平面下面的为__",
+        "choices": [],
+        "answer": "α型"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_03922_001.png"
+        ],
+        "question_id": 3922,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_03922_001.png\">为四个带电粒子在Ｏ点沿相同方向垂直于磁力线射入均匀磁场后的偏转轨迹的照片.磁场方向垂直纸面向外，轨迹所对应的四个粒子的质量相等，电量大小也相等，则其中动能最大的带负电的粒子的轨迹是（    ）",
+        "choices": [
+            "$O_{a}$ ",
+            "$O_{b} $",
+            "$O_{c} $",
+            "$O_{d} $"
+        ],
+        "answer": "$O_{c} $"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07856_001.png"
+        ],
+        "question_id": 7856,
+        "question_type": "open",
+        "question": "<img=\"q_07856_001.png\">所示的是__",
+        "choices": [],
+        "answer": "D-葡萄糖"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_09077_001.jpg"
+        ],
+        "question_id": 9077,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_09077_001.jpg\">所示，曲线段方程为y=f(x)，函数f(x)在区间[0，a]上有连续导数，则定积分$\\int_{0}^{a}xf^{'} (x)dx$等于( )",
+        "choices": [
+            "\n曲边梯形ABOD的面积",
+            "梯形ABOD的面积",
+            "\n曲边三角形ACD的面积",
+            "\n三角形ACD的面积"
+        ],
+        "answer": "\n曲边三角形ACD的面积"
+    },
+    {
+        "data_domain": "science",
+        "image_name": [
+            "q_07874_001.png"
+        ],
+        "question_id": 7874,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07874_001.png\">所示转录抑制决定__的命运",
+        "choices": [
+            "T细胞",
+            "B细胞和浆细胞",
+            "T细胞和浆细胞",
+            "T细胞和B细胞"
+        ],
+        "answer": "B细胞和浆细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00080_001.png"
+        ],
+        "question_id": 80,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_00080_001.png\">中包含球状带、束状带和网状带是哪一腺体?_",
+        "choices": [
+            "甲状腺",
+            "肾上腺",
+            "前列腺",
+            "以上都不是"
+        ],
+        "answer": "肾上腺"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00023_001.png"
+        ],
+        "question_id": 23,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_00023_001.png\">中呈粉红色带状的是（）",
+        "choices": [
+            "胶原纤维",
+            "弹性纤维",
+            "网状纤维",
+            "神经纤维"
+        ],
+        "answer": "胶原纤维"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08937_001.png"
+        ],
+        "question_id": 8937,
+        "question_type": "open",
+        "question": "如图<img=\"q_08937_001.png\">，眼球运动检查是有助于对___神经系统障碍及斜视问题的诊断。",
+        "choices": [],
+        "answer": "中枢"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08635_001.png"
+        ],
+        "question_id": 8635,
+        "question_type": "multi_choice",
+        "question": "对某地焊工和造船工的死亡情况进行回顾性队列研究,得到如下结果:<img=\"q_08635_001.png\">造船工的SMR为（）。",
+        "choices": [
+            "0.2",
+            "0.18",
+            "0.5",
+            "2"
+        ],
+        "answer": "0.5"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "a_10572_001.png",
+            "a_10572_002.png",
+            "a_10572_003.png",
+            "a_10572_004.png"
+        ],
+        "question_id": 10572,
+        "question_type": "multi_choice",
+        "question": "下列反应正确的是（）。",
+        "choices": [
+            "<img=\"a_10572_001.png\">",
+            "<img=\"a_10572_002.png\">",
+            "<img=\"a_10572_003.png\">",
+            "<img=\"a_10572_004.png\">"
+        ],
+        "answer": "<img=\"a_10572_002.png\">"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07054_001.png"
+        ],
+        "question_id": 7054,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07054_001.png\">图示为淋巴细胞形态变化图，3处的细胞名称（）",
+        "choices": [
+            "原始淋巴细胞",
+            "幼稚淋巴细胞",
+            "（成熟）淋巴细胞",
+            "异淋"
+        ],
+        "answer": "（成熟）淋巴细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12816_001.png"
+        ],
+        "question_id": 12816,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12816_001.png\">为腹痛的取穴图，可用拍打疗法，选择穴位:中脘、神阙、足三里、内关。操作方法:医者或患者选择合适体位，可在中脘、神阙、足三里、内关等穴位拍打，每穴拍打2~4分钟，手法偏重。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11252_001.png"
+        ],
+        "question_id": 11252,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_11252_001.png\">所示OC与子宫内膜癌1:1配对分析，$X^{2} $值为（）。",
+        "choices": [
+            "9.67",
+            "19.53",
+            "29.39",
+            "39.25"
+        ],
+        "answer": "19.53"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_09425_001.png"
+        ],
+        "question_id": 9425,
+        "question_type": "multi_choice",
+        "question": "2001年1月~12月,在西安市某口腔医院门诊进行了一项关于\"吸烟与口腔粘膜白斑病之间关系\"的配比病例对照研究。对照选自该口腔医院门诊的非口腔粘膜白斑病就诊者,如:镶牙、补牙、洁牙、牙周炎等患者。病例和对照的配比 条件:同性别,年龄相差在2岁以内,西安市居民,并且近10年来一直居住在该市。结果如下表：<img=\"q_09425_001.png\">分析得到：吸烟与口腔粘膜白斑病无关联。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07408_001.png"
+        ],
+        "question_id": 7408,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_07408_001.png\">，要拒绝蟑螂、老鼠“入侵”，应注意____等。",
+        "choices": [
+            "环境卫生，保持通风和干燥，及时清理杂物、垃圾和食物残渣，封堵橱柜、下水道等处的缝隙",
+            "早睡早起",
+            "开窗通风",
+            "其余选项均不对"
+        ],
+        "answer": "环境卫生，保持通风和干燥，及时清理杂物、垃圾和食物残渣，封堵橱柜、下水道等处的缝隙"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08628_001.png"
+        ],
+        "question_id": 8628,
+        "question_type": "multi_choice",
+        "question": "一项病例对照研究得到如下资料<img=\"q_08628_001.png\">其OR值为（）",
+        "choices": [
+            "3.21",
+            "2.33",
+            "2.19",
+            "0.5"
+        ],
+        "answer": "2.19"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11356_001.png"
+        ],
+        "question_id": 11356,
+        "question_type": "multi_choice",
+        "question": "根据下图<img=\"q_11356_001.png\">药物不是受体拮抗剂的为（）",
+        "choices": [
+            "可乐定",
+            "氟哌啶醇",
+            "普萘洛尔",
+            "雷洛昔芬"
+        ],
+        "answer": "可乐定"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00058_001.png"
+        ],
+        "question_id": 58,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00058_001.png\">中胞质有蓝紫色嗜碱颗粒的细胞是（）",
+        "choices": [
+            "嗜酸性粒细胞",
+            "嗜中性粒细胞",
+            "嗜碱性粒细胞",
+            "其余选项均不对"
+        ],
+        "answer": "嗜碱性粒细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06234_001.png"
+        ],
+        "question_id": 6234,
+        "question_type": "multi_choice",
+        "question": "一项病例对照研究数据如图<img=\"q_06234_001.png\">，其OR值为（）",
+        "choices": [
+            "3.21",
+            "2.33",
+            "2.19",
+            "1.6"
+        ],
+        "answer": "2.19"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12894_001.png"
+        ],
+        "question_id": 12894,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_12894_001.png\">所示盐酸左西替利嗪片治疗慢性特发性荨麻疹临床疗效，利用盐酸左西替利嗪片治疗慢性特发性荨麻疹临床试验，以西替利嗪片组作为对照组，治疗28天后结果如下表，现要比较两种药物的疗效，最优方法为（）。",
+        "choices": [
+            "Q检验 ",
+            "成组t检验 ",
+            "u检验",
+            "秩和检验"
+        ],
+        "answer": "秩和检验"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11259_001.png"
+        ],
+        "question_id": 11259,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_11259_001.png\">所示中886例食管癌病人与对照中有586例饮酒，那么$X^{2} $值为（）。",
+        "choices": [
+            "31.9",
+            "2.29",
+            "10.39",
+            "20.9"
+        ],
+        "answer": "31.9"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08769_001.png"
+        ],
+        "question_id": 8769,
+        "question_type": "open",
+        "question": "给某患者静脉注射一单室模型药物,剂量为100.0mg,测得不同时刻血药浓度的数据如下表<img=\"q_08769_001.png\">所示。该药物的表现分布容积(单位L)是__",
+        "choices": [],
+        "answer": "8.42"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11376_001.png"
+        ],
+        "question_id": 11376,
+        "question_type": "multi_choice",
+        "question": "根据下图<img=\"q_11376_001.png\">盐酸利多卡因的乙醇溶液加氯化钻试液即生成（）",
+        "choices": [
+            "结晶性沉淀",
+            "黄色沉淀",
+            "蓝绿色沉淀",
+            "紫色沉淀"
+        ],
+        "answer": "紫色沉淀"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07033_001.png"
+        ],
+        "question_id": 7033,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07033_001.png\">图示箭头所指的细胞名称（）",
+        "choices": [
+            "嗜酸性粒细胞",
+            "中性中幼粒细胞",
+            "中性晚幼粒细胞",
+            "嗜碱性粒细胞"
+        ],
+        "answer": "嗜碱性粒细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07698_001.png"
+        ],
+        "question_id": 7698,
+        "question_type": "multi_choice",
+        "question": "一种新的血糖筛检试验在一组糖尿病患者和非糖尿病患者中的结果如<img=\"q_07698_001.png\">所示，则该试验的特异度为（）。\r\n",
+        "choices": [
+            "98.8%",
+            "86.1%",
+            "84.5%",
+            "96.3%"
+        ],
+        "answer": "96.3%"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12904_001.png"
+        ],
+        "question_id": 12904,
+        "question_type": "multi_choice",
+        "question": "一项研究介入性操作与医院感染关系的病例对照研究如<img=\"q_12904_001.png\">所示，调查了100例有感染病人作为病例组，同期在同病区调查100例无感染病人作为对照组，从诊疗史调查中得知病例组有64例和对照组有12例曾进行过介入性诊疗操作。用流行病学方法分析该研究数据。OR值为（）。",
+        "choices": [
+            "12.04",
+            "13.89",
+            "13.04",
+            "12.89"
+        ],
+        "answer": "13.04"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12897_001.png"
+        ],
+        "question_id": 12897,
+        "question_type": "multi_choice",
+        "question": "现有若干名儿童健康检查一览表的部分检测指标如<img=\"q_12897_001.png\">所示，对于身高或坐高指标，在进行统计描述时宜计算均数 和标准差，表示其集中趋势和离散趋势。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00004_001.png"
+        ],
+        "question_id": 4,
+        "question_type": "multi_choice",
+        "question": "患者，16岁，于今日上学骑自行车不慎摔倒，导致上肢发生骨折，其骨折形态如图<img=\"q_00004_001.png\">所示，请问该患者具体发生了什么骨折（）",
+        "choices": [
+            "肱骨髁上骨折",
+            "肱骨干骨折",
+            "前臂骨折",
+            "桡骨远端骨折"
+        ],
+        "answer": "肱骨髁上骨折"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_09418_001.png"
+        ],
+        "question_id": 9418,
+        "question_type": "multi_choice",
+        "question": "有人用红外线扫描和X线摄片两种方法在一批妇女中筛检乳腺癌,试验结果见表：<img=\"q_09418_001.png\">两种方法串联使用，所得正确指数为（）。",
+        "choices": [
+            "0.39",
+            "0.79",
+            "0.98",
+            "0.99"
+        ],
+        "answer": "0.39"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_13001_001.png"
+        ],
+        "question_id": 13001,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_13001_001.png\">所示为常见的热型中的_____。",
+        "choices": [
+            "间歇热",
+            "弛张热",
+            "回归热",
+            "不规则热"
+        ],
+        "answer": "不规则热"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12958_001.png"
+        ],
+        "question_id": 12958,
+        "question_type": "multi_choice",
+        "question": "制药工程搅拌器有很多种类，其配件搅拌浆也有所不同。常见的搅拌桨如<img=\"q_12958_001.png\">为（）。",
+        "choices": [
+            "折叶涡轮",
+            "推进式搅拌器",
+            "直叶圆盘涡轮",
+            "弯叶圆盘涡轮"
+        ],
+        "answer": "直叶圆盘涡轮"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_10811_001.jpg"
+        ],
+        "question_id": 10811,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_10811_001.jpg\">整体是什么结构?_",
+        "choices": [
+            "肾上腺皮质",
+            "淋巴小结生发中心",
+            "单层柱状上皮",
+            "甲状腺滤泡"
+        ],
+        "answer": "甲状腺滤泡"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07393_001.png"
+        ],
+        "question_id": 7393,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_07393_001.png\">，呼吸道传染病是指病原体从人体的___等呼吸道感染侵入而引起的有传染性的疾病。",
+        "choices": [
+            "食道",
+            "鼻腔、咽喉、气管和支气管",
+            "胃部",
+            "其余选项均不对"
+        ],
+        "answer": "鼻腔、咽喉、气管和支气管"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_10023_001.png"
+        ],
+        "question_id": 10023,
+        "question_type": "open",
+        "question": "根据下图<img=\"q_10023_001.png\">中国药典规定注射用水的生产工艺必须是\n______。",
+        "choices": [],
+        "answer": "蒸馏法"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07042_001.png"
+        ],
+        "question_id": 7042,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_07042_001.png\">图示为外周血涂片，染色细胞名称（）",
+        "choices": [
+            "早幼红细胞",
+            "中幼红细胞",
+            "晚幼红细胞",
+            "原始红细胞"
+        ],
+        "answer": "中幼红细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06748_001.png"
+        ],
+        "question_id": 6748,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_06748_001.png\">是法洛四联症的 4 个病理改变，其中对其发展起关键作用的是：（）",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00698_001.png"
+        ],
+        "question_id": 698,
+        "question_type": "multi_choice",
+        "question": "识别<img=\"q_00698_001.png\">切片为_",
+        "choices": [
+            "肝硬化",
+            "肝细胞癌",
+            "肺脓肿",
+            "慢性肺淤血"
+        ],
+        "answer": "肝硬化"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00633_001.png"
+        ],
+        "question_id": 633,
+        "question_type": "multi_choice",
+        "question": "识别<img=\"q_00633_001.png\">为（）的成像",
+        "choices": [
+            "蛲虫卵",
+            "钩虫卵",
+            "血吸虫卵",
+            "鞭虫卵"
+        ],
+        "answer": "蛲虫卵"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08260_001.png"
+        ],
+        "question_id": 8260,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_08260_001.png\">图示为外周血涂片，箭头所指细胞名称（）",
+        "choices": [
+            "浆细胞",
+            "淋巴细胞",
+            "柴捆细胞",
+            "篮细胞"
+        ],
+        "answer": "浆细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06689_001.png"
+        ],
+        "question_id": 6689,
+        "question_type": "open",
+        "question": "<img=\"q_06689_001.png\">为成人进行心肺复苏（CPR），心脏按压的按压点应位于图示的___",
+        "choices": [],
+        "answer": "E"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00076_001.png"
+        ],
+        "question_id": 76,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_00076_001.png\">是眼部结构，框中的结构名称是什么？_",
+        "choices": [
+            "视神经乳头",
+            "壶腹嵴",
+            "位觉斑",
+            "以上都不是"
+        ],
+        "answer": "视神经乳头"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12802_001.png"
+        ],
+        "question_id": 12802,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12802_001.png\">为感冒的取穴图，锤击疗法中穴位及弹打线:大椎、风池、风门、曲池、合谷、外关等穴。颈椎两侧弹打线、上肢内侧面弹打线、上肢外侧面弹打线、下肢后侧面弹打线。操作方法:重点弹打颈椎两侧弹打线。其余弹打线及穴位均采用中度手法弹打。一般每日弹打____",
+        "choices": [
+            "4~6次，也可根据病情，每日弹打8~10次",
+            "2~4次，也可根据病情，每日弹打4~6次",
+            "其余选项均不对",
+            "1~2次，也可根据病情，每日弹打2~4次"
+        ],
+        "answer": "1~2次，也可根据病情，每日弹打2~4次"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_09806_001.png"
+        ],
+        "question_id": 9806,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_09806_001.png\">所示为每日吸烟支数与肺癌发生之间的剂量反应关系，该表显示出了剂量反应关系，更增强了吸烟与肺癌之间因果联系的说服力。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00082_001.png"
+        ],
+        "question_id": 82,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_00082_001.png\">中是小肠，图中可以看出它具有什么特征和细胞?_",
+        "choices": [
+            "无绒毛，潘氏细胞",
+            "有突起，雷氏细胞",
+            "有绒毛，潘氏细胞",
+            "其余选项均不对"
+        ],
+        "answer": "有绒毛，潘氏细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06152_001.png"
+        ],
+        "question_id": 6152,
+        "question_type": "open",
+        "question": "将18名某病患者随机分成两组，分别用药物A或药物B治疗，观察治疗前后血色素变化，测得血色素差值（g/l)资料如图<img=\"q_06152_001.png\">，欲比较两药疗效有无差别。该资料类型为___。",
+        "choices": [],
+        "answer": "定量资料"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06184_001.png"
+        ],
+        "question_id": 6184,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_06184_001.png\">，为某地各年龄组恶性肿瘤死亡情况，试估计“0~”岁年龄组的年龄别死亡率的可信区间为___。",
+        "choices": [
+            "（1.287~1.841）%",
+            "（1.187~1.741）%",
+            "（1.087~1.641）%",
+            "（1.387~1.941）%"
+        ],
+        "answer": "（1.387~1.941）%"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12949_001.png"
+        ],
+        "question_id": 12949,
+        "question_type": "multi_choice",
+        "question": "以中和反应器为衡算范围，绘出如<img=\"q_12949_001.png\">所示的蒽醌硝化液和过程物料衡算示意图，硝化液总量为3000kg，其中含硝基蒽醌的量为168kg，那么反应生成的硝酸铵量为（）。",
+        "choices": [
+            "254.2kg",
+            "254.3kg",
+            "254.4kg",
+            "255.2kg"
+        ],
+        "answer": "255.2kg"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_12791_001.png"
+        ],
+        "question_id": 12791,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_12791_001.png\">为马蹄香，药材特性根茎呈圆柱状，略扁，稍弯曲，长2～8.5cm，直径0.5～2cm。表面暗棕色或灰棕色，有密集隆起的环节及突起的点状根痕。质坚实、不易折断，断面较平整，灰棕色，可见筋脉点（维管束）。根多数，圆柱形，稍弯曲，表面灰棕色有纵皱纹，质硬脆，易折断，断面平坦。具有特异臭气，味微苦辛。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "a_09336_001.png",
+            "a_09336_002.png",
+            "a_09336_003.png",
+            "a_09336_004.png"
+        ],
+        "question_id": 9336,
+        "question_type": "multi_choice",
+        "question": "下列公式中，正确表示牛顿流体关系的选项是（）",
+        "choices": [
+            "<img=\"a_09336_001.png\">",
+            "<img=\"a_09336_002.png\">",
+            "<img=\"a_09336_003.png\">",
+            "<img=\"a_09336_004.png\">"
+        ],
+        "answer": "<img=\"a_09336_001.png\">"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06722_001.png"
+        ],
+        "question_id": 6722,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_06722_001.png\">图中的尿液有形成分为___",
+        "choices": [
+            "白细胞",
+            "鳞状上皮细胞",
+            "粗颗粒管型",
+            "表层移行上皮细胞"
+        ],
+        "answer": "表层移行上皮细胞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_10860_001.jpg"
+        ],
+        "question_id": 10860,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_10860_001.jpg\">中 1.喉室(喉中间腔)2.前庭聚3.声门下腔 4.喉前庭5.声襞",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00695_001.png"
+        ],
+        "question_id": 695,
+        "question_type": "open",
+        "question": "如图<img=\"q_00695_001.png\">所示,用泵将水从水池输送到高处的密闭容器,输水量为15m2h。输水管的内径为53mm,其出口位于水池液面以上20m,伸入压强为500kPa(表压)的容器中。水在管路内机械能损耗为40J/kg。则输送所需的外加功为_",
+        "choices": [],
+        "answer": "738"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06204_001.png"
+        ],
+        "question_id": 6204,
+        "question_type": "open",
+        "question": "某实验分别用两种方法对36件样品测定大肠菌指数，得图<img=\"q_06204_001.png\">资料，作t检验（t=1.546，P>0.05），本实验属于__设计。",
+        "choices": [],
+        "answer": "配对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11464_001.png"
+        ],
+        "question_id": 11464,
+        "question_type": "open",
+        "question": "如果下面<img=\"q_11464_001.png\">的DNA双链从右向左进行转录，问_____是有义链的。",
+        "choices": [],
+        "answer": "链2"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_06779_001.png"
+        ],
+        "question_id": 6779,
+        "question_type": "multi_choice",
+        "question": "患者，男，74岁，近 3个月出现了排尿不畅的情况，今晨腹胀来医院就78诊，检查可发现患者呈图<img=\"q_06779_001.png\">改变，应该考虑出现了什么疾病：()",
+        "choices": [
+            "上尿路结石",
+            "前列腺癌",
+            "下尿路结石",
+            "前列腺增生"
+        ],
+        "answer": "前列腺增生"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_13237_001.png"
+        ],
+        "question_id": 13237,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_13237_001.png\">图中箭头指的是（）",
+        "choices": [
+            "胸腰筋膜",
+            "横突孔",
+            "胸骨角",
+            "枕骨大孔"
+        ],
+        "answer": "枕骨大孔"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11251_001.png"
+        ],
+        "question_id": 11251,
+        "question_type": "multi_choice",
+        "question": "如<img=\"q_11251_001.png\">所示为吸烟与肺癌的病例对照研究P值为（）。",
+        "choices": [
+            "大于0.05",
+            "等于0.05",
+            "小于0.05",
+            "小于0.01"
+        ],
+        "answer": "小于0.01"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00582_001.png"
+        ],
+        "question_id": 582,
+        "question_type": "multi_choice",
+        "question": "按照QRS波群的命名原则，为下列<img=\"q_00582_001.png\">QRS波群正确命名___。",
+        "choices": [
+            "1）Qr、 2）QS、 3）QR、 4）rS、 5）Rs",
+            "1）QS、 2）QR、 3）Qr、 4）rS、 5）Rs",
+            "1）QS、 2）Qr、 3）QR、 4）rS、 5）Rs、 6）R、 7）R波顿挫、 8）rsR’s 、 9）rSr’、 10）qR",
+            "1）QS、 2）Qr、 3）QR、 4）Rs、 5）RS"
+        ],
+        "answer": "1）QS、 2）Qr、 3）QR、 4）rS、 5）Rs、 6）R、 7）R波顿挫、 8）rsR’s 、 9）rSr’、 10）qR"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11328_001.png"
+        ],
+        "question_id": 11328,
+        "question_type": "multi_choice",
+        "question": "根据下图<img=\"q_11328_001.png\">变性蛋白质的特点是（）",
+        "choices": [
+            "黏度下降",
+            "丧失原有的生物活性",
+            "颜色反应减弱",
+            "溶解度增加"
+        ],
+        "answer": "丧失原有的生物活性"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_11284_001.png"
+        ],
+        "question_id": 11284,
+        "question_type": "multi_choice",
+        "question": "根据范特霍夫规则，如<img=\"q_11284_001.png\">所示为（）。",
+        "choices": [
+            "一般反应",
+            "爆炸反应",
+            "催化加氢或酶催化反应",
+            "特殊反应"
+        ],
+        "answer": "一般反应"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_04105_001.png"
+        ],
+        "question_id": 4105,
+        "question_type": "multi_choice",
+        "question": "《生物制药业》书中的案例几乎囊括了世界范围内生物制药业的重要企业，案例的作者们全面总结了这些具有代表性的企业巨头以及近年来风头正劲的生物技术公司新贵在上世纪末的发展历程，对它们在世纪之交的战略规划及其面临的机遇和挑战进行了深入细致的剖析。<img=\"q_04105_001.png\">（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_09432_001.png"
+        ],
+        "question_id": 9432,
+        "question_type": "multi_choice",
+        "question": "根据下列HBV感染状况检查结果<img=\"q_09432_001.png\">，可作为献血员的是（）。",
+        "choices": [
+            "甲",
+            "乙",
+            "丙",
+            "丁"
+        ],
+        "answer": "乙"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08147_001.png"
+        ],
+        "question_id": 8147,
+        "question_type": "multi_choice",
+        "question": "图<img=\"q_08147_001.png\">，视觉是指外界物体通过视觉器官，反映到______所产生的综合感觉，包含物体的大小、明暗、颜色、动静等多重信息。",
+        "choices": [
+            "大脑皮质嗅觉中枢",
+            "大脑皮质语言中枢",
+            "大脑皮质视觉中枢",
+            "海马体"
+        ],
+        "answer": "大脑皮质视觉中枢"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_10803_001.jpg"
+        ],
+        "question_id": 10803,
+        "question_type": "open",
+        "question": "<img=\"q_10803_001.jpg\">是什么血管?_",
+        "choices": [],
+        "answer": "毛细血管"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00716_001.png"
+        ],
+        "question_id": 716,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00716_001.png\">所示心电图诊断为（）",
+        "choices": [
+            "窦房传导阻滞",
+            "右束支传导阻滞",
+            "左束支传导阻滞",
+            "二度Ⅰ型房室传导阻滞"
+        ],
+        "answer": "二度Ⅰ型房室传导阻滞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08957_001.png"
+        ],
+        "question_id": 8957,
+        "question_type": "open",
+        "question": "图<img=\"q_08957_001.png\">高度近视的病理改变之一是角膜：高度近视眼的角膜后___很易破裂。",
+        "choices": [],
+        "answer": "弹力层"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08141_001.png"
+        ],
+        "question_id": 8141,
+        "question_type": "open",
+        "question": "图<img=\"q_08141_001.png\">左侧是正常乳腺组织切片，右侧是什么异常？___",
+        "choices": [],
+        "answer": "乳腺增生"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07946_001.png"
+        ],
+        "question_id": 7946,
+        "question_type": "open",
+        "question": "<img=\"q_07946_001.png\">是蚊虫的翅，翅窄长、膜质；翅脉较简单，通常以序号命名，纵脉1～6简称V1～V6。翅纵脉覆盖有鳞片，平覆在纵脉上的短鳞称为被鳞，长而突出在翅外的鳞片称为羽。翅后缘并扩展到翅端的狭长鳞称为_____，其下的短鳞为次生缘缨。",
+        "choices": [],
+        "answer": "缘缨"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08772_001.png"
+        ],
+        "question_id": 8772,
+        "question_type": "multi_choice",
+        "question": "下图<img=\"q_08772_001.png\">为药物与受体的亲和力及内在活性对量-效曲线的影响图,下列描述正确的是()",
+        "choices": [
+            "a、b、c三药和受体的亲和力相等",
+            "a、b、c三药的内在活性相等",
+            "a药的亲和力最大",
+            "c药的内在活性最大"
+        ],
+        "answer": "a、b、c三药和受体的亲和力相等"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_10201_001.png"
+        ],
+        "question_id": 10201,
+        "question_type": "open",
+        "question": "观察<img=\"q_10201_001.png\">，严重低渗性脱水时体内出现__（填序号）",
+        "choices": [],
+        "answer": "A"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_03327_001.png"
+        ],
+        "question_id": 3327,
+        "question_type": "multi_choice",
+        "question": "头CT见前纵列高密度影。头增强MRI未见明显强化。磁敏感加权成像（sensitive weighted imaging，SWI）示前纵列池点片状低信号，出血可能。磁共振静脉成像（magnetic resonullce venography，MRV）示上矢状窦前部信号减低，显示不清。颈静脉彩超未见明显异常。对于下图<img=\"q_03327_001.png\">分析可以得到（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_01528_001.png"
+        ],
+        "question_id": 1528,
+        "question_type": "multi_choice",
+        "question": "此骨<img=\"q_01528_001.png\">为扁骨。",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "错"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_03322_001.png"
+        ],
+        "question_id": 3322,
+        "question_type": "multi_choice",
+        "question": "对于下图<img=\"q_03322_001.png\">分析可以得到海绵窦区硬脑膜动静脉瘘（cavernous sinus dural arteriovenous fistula，CSDAVF）是一种常见的脑血管畸形，临床表现多变，轻者可以毫无症状，重者有严重的神经功能缺损。经静脉途径行海绵窦区硬脑膜动静脉瘘栓塞是近年来采用较多的治疗方法之一，众多临床文献表明行之有效[ 1 , 2 ]。但由于海绵窦区结构复杂，在取得较好的瘘口闭塞的同时也具有一定的并发症发生率。（）",
+        "choices": [
+            "对",
+            "错"
+        ],
+        "answer": "对"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08016_001.png"
+        ],
+        "question_id": 8016,
+        "question_type": "open",
+        "question": "图<img=\"q_08016_001.png\">是肝脏变质性炎的组织切片______(高/低)倍镜下，肝细胞溶解坏死，结构消失。b处小叶周边部残存少量变性的肝细胞，但无明显肝细胞再生现象。c处门管区可见少量淋巴细胞、巨噬细胞浸润。",
+        "choices": [],
+        "answer": "高"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_07716_001.png"
+        ],
+        "question_id": 7716,
+        "question_type": "multi_choice",
+        "question": "如图<img=\"q_07716_001.png\">，男，10岁。发热、咳嗽6天，诊断为（）",
+        "choices": [
+            "气胸",
+            "正常胸片",
+            "大叶性肺炎",
+            "肺结核"
+        ],
+        "answer": "大叶性肺炎"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00719_001.png"
+        ],
+        "question_id": 719,
+        "question_type": "multi_choice",
+        "question": "患者男，63岁，<img=\"q_00719_001.png\">为其正常体检心电图，可以判断该患者患有_",
+        "choices": [
+            " 窦性心动过速",
+            "完全性左束支传导阻滞",
+            "窦性心动过速 完全性左束支传导阻滞",
+            "其余选项均不对"
+        ],
+        "answer": "窦性心动过速 完全性左束支传导阻滞"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00693_001.png"
+        ],
+        "question_id": 693,
+        "question_type": "multi_choice",
+        "question": "<img=\"q_00693_001.png\">所示为酶固定化的_方式",
+        "choices": [
+            "吸附",
+            "共价键结合",
+            "交联",
+            "包埋"
+        ],
+        "answer": "交联"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_05040_001.png"
+        ],
+        "question_id": 5040,
+        "question_type": "multi_choice",
+        "question": "为评价水痘疫苗的流行病学效果，其随访结果如图<img=\"q_05040_001.png\">，该疫苗的保护率是（）",
+        "choices": [
+            "80%",
+            "83.30%",
+            "90%",
+            "92.50%"
+        ],
+        "answer": "83.30%"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_08936_001.png"
+        ],
+        "question_id": 8936,
+        "question_type": "open",
+        "question": "如图<img=\"q_08936_001.png\">，眼外肌的作用方向是直肌：内转，外直肌：___",
+        "choices": [],
+        "answer": "外转"
+    },
+    {
+        "data_domain": "health_and_medicine",
+        "image_name": [
+            "q_00039_001.png"
+        ],
+        "question_id": 39,
+        "question_type": "open",
+        "question": "<img=\"q_00039_001.png\">中是脂肪组织，可以观察到它的胞质中含有（）",
+        "choices": [],
+        "answer": "大脂滴"
+    }
+]

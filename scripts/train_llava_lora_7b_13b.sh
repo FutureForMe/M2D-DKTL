@@ -6,7 +6,7 @@ deepspeed --include localhost:2,3 --master_port=7001 llava/train/train.py \
     --model_name_or_path ./liuhaotian/llava-v1.5-7b/ \
     --version v1 \
     --data_path ./data/cod_data/MMMU_a2r3_CoD.json \
-    --image_folder ./data/images/MMMU_images/images \
+    --image_folder ./data/images/MMMU_images/ \
     --vision_tower ./openai/clip-vit-large-patch14-336 \
     --mm_projector_type mlp2x_gelu \
     --mm_vision_select_layer -2 \
@@ -46,7 +46,7 @@ deepspeed --include localhost:2,3 --master_port=7001 llava/train/train.py \
     --model_name_or_path ./liuhaotian/llava-v1.5-13b/ \
     --version v1 \
     --data_path ./data/cod_data/MMMU_a2r3_CoD.json \
-    --image_folder ./data/images/MMMU_images/images \
+    --image_folder ./data/images/MMMU_images/ \
     --vision_tower ./openai/clip-vit-large-patch14-336 \
     --mm_projector_type mlp2x_gelu \
     --mm_vision_select_layer -2 \
